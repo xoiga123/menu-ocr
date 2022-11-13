@@ -1,0 +1,2753 @@
+cropped/000000.jpg	Menu
+cropped/000001.jpg	Foods
+cropped/000002.jpg	TÔM SÚ HẤP NƯỚC DỪA
+cropped/000003.jpg	TÔM SÚ NƯỚNG
+cropped/000004.jpg	TÔM SÚ NƯỚNG MUỐI ỚT
+cropped/000005.jpg	TÔM SÚ SỐNG ĂN MÙ TẠT
+cropped/000006.jpg	TÔM SÚ CHIÊN MẮM NHỈ
+cropped/000007.jpg	TÔM SÚ CHIÊN TỎI
+cropped/000008.jpg	TÔM SÚ CHIÊN ME
+cropped/000009.jpg	ỐC NHẢY LÙN HẤP XẢ
+cropped/000010.jpg	ỐC NHẢY LÙN NƯỚNG
+cropped/000011.jpg	ỐC HƯƠNG HẤP XẢ
+cropped/000012.jpg	ỐC HƯƠNG NƯỚNG MỌI
+cropped/000013.jpg	TÔM ĐẤT HẤP
+cropped/000014.jpg	TÔM ĐẤT NƯỚNG
+cropped/000015.jpg	TÔM ĐẤT RANG MUỐI
+cropped/000016.jpg	TÔM ĐẤT SỐNG ĂN MÙ TẠT
+cropped/000017.jpg	TÔM ĐẤT CHIÊN ME
+cropped/000018.jpg	TÔM ĐẤT CHIÊN TỎI
+cropped/000019.jpg	800000
+cropped/000020.jpg	800000
+cropped/000021.jpg	800000
+cropped/000022.jpg	800000
+cropped/000023.jpg	800000
+cropped/000024.jpg	800000
+cropped/000025.jpg	800000
+cropped/000026.jpg	850000
+cropped/000027.jpg	870000
+cropped/000028.jpg	890000
+cropped/000029.jpg	850000
+cropped/000030.jpg	200000
+cropped/000031.jpg	200000
+cropped/000032.jpg	250000
+cropped/000033.jpg	250000
+cropped/000034.jpg	250000
+cropped/000035.jpg	250000
+cropped/000036.jpg	ICE
+cropped/000037.jpg	CREAM
+cropped/000038.jpg	KEM CUỘN
+cropped/000039.jpg	KEM CUỘN CHANH DÂY
+cropped/000040.jpg	KEM CUỘN SOCOLA
+cropped/000041.jpg	KEM CUỘN PHÔ MAI
+cropped/000042.jpg	KEM CUỘN TRÀ XANH
+cropped/000043.jpg	KEM CUỘN THẬP CẨM
+cropped/000044.jpg	KEM CUỘN BƠ
+cropped/000045.jpg	KEM CUỘN DÂU
+cropped/000046.jpg	KEM CUỘN SẦU RIÊNG
+cropped/000047.jpg	KEM CUỘN XOÀI
+cropped/000048.jpg	KEM CUỘN MÃNG CẦU
+cropped/000049.jpg	KEM CUỘN SA PHÔ
+cropped/000050.jpg	20000
+cropped/000051.jpg	20000
+cropped/000052.jpg	20000
+cropped/000053.jpg	20000
+cropped/000054.jpg	20000
+cropped/000055.jpg	20000
+cropped/000056.jpg	20000
+cropped/000057.jpg	20000
+cropped/000058.jpg	20000
+cropped/000059.jpg	20000
+cropped/000060.jpg	20000
+cropped/000061.jpg	menu
+cropped/000062.jpg	Milk tea & Coffee
+cropped/000063.jpg	PaPa Chicken
+cropped/000064.jpg	GÀ CHIÊN GIÒN
+cropped/000065.jpg	CƠM GÀ
+cropped/000066.jpg	GÀ SỐT CAY NÓNG
+cropped/000067.jpg	GÀ SỐT CAY NGỌT
+cropped/000068.jpg	ĐỒ ĂN VẶT
+cropped/000069.jpg	GÀ MẬT ONG TỎI
+cropped/000070.jpg	Nem Nướng Nha Trang
+cropped/000071.jpg	Đùi gà chiên giòn
+cropped/000072.jpg	Cánh gà chiên giòn
+cropped/000073.jpg	Má đùi chiên giòn
+cropped/000074.jpg	Đùi gà cay nóng
+cropped/000075.jpg	Cánh gà cay nóng
+cropped/000076.jpg	Má đùi cay nóng
+cropped/000077.jpg	Đùi gà cay ngọt
+cropped/000078.jpg	Cánh gà cay ngọt
+cropped/000079.jpg	Má đùi cay ngọt
+cropped/000080.jpg	Đùi gà mật ong tỏi
+cropped/000081.jpg	Cánh gà mật ong tỏi
+cropped/000082.jpg	Má đùi mật ong tỏi
+cropped/000083.jpg	Cơm đùi cay nóng
+cropped/000084.jpg	Cơm đùi cay ngọt
+cropped/000085.jpg	Cơm đùi mật ong tỏi
+cropped/000086.jpg	Cơm má đùi cay nóng
+cropped/000087.jpg	Cơm má đùi cay ngọt
+cropped/000088.jpg	Cơm má đùi mật ong tỏi
+cropped/000089.jpg	Cơm cánh cay nóng
+cropped/000090.jpg	Cơm cánh cay ngọt
+cropped/000091.jpg	Cơm cánh mật ong tỏi
+cropped/000092.jpg	Piza - M
+cropped/000093.jpg	Piza - L
+cropped/000094.jpg	Khoai tây lắc
+cropped/000095.jpg	Nem chua rán
+cropped/000096.jpg	Khoai lang kén
+cropped/000097.jpg	Kim bắp chiên
+cropped/000098.jpg	Xoài dầm bò khô
+cropped/000099.jpg	35k/suất
+cropped/000100.jpg	27k
+cropped/000101.jpg	27k
+cropped/000102.jpg	27k
+cropped/000103.jpg	33k
+cropped/000104.jpg	33k
+cropped/000105.jpg	35k
+cropped/000106.jpg	33k
+cropped/000107.jpg	33k
+cropped/000108.jpg	35k
+cropped/000109.jpg	33k
+cropped/000110.jpg	33k
+cropped/000111.jpg	35k
+cropped/000112.jpg	40k
+cropped/000113.jpg	40k
+cropped/000114.jpg	40k
+cropped/000115.jpg	40k
+cropped/000116.jpg	40k
+cropped/000117.jpg	40k
+cropped/000118.jpg	40k
+cropped/000119.jpg	40k
+cropped/000120.jpg	40k
+cropped/000121.jpg	40k
+cropped/000122.jpg	70k
+cropped/000123.jpg	35k
+cropped/000124.jpg	40k
+cropped/000125.jpg	30k
+cropped/000126.jpg	35k
+cropped/000127.jpg	50k
+cropped/000128.jpg	menu !
+cropped/000129.jpg	Bánh phô mai chanh dây
+cropped/000130.jpg	Bánh phô mai trà xanh
+cropped/000131.jpg	Bánh mousse dâu
+cropped/000132.jpg	Bánh tiramisu
+cropped/000133.jpg	Khoai tây chiên
+cropped/000134.jpg	Bánh mỳ xúc xích đức mù tạt vàng
+cropped/000135.jpg	Bánh chà bông gà cay
+cropped/000136.jpg	Bánh bông lan trứng muối
+cropped/000137.jpg	35000
+cropped/000138.jpg	35000
+cropped/000139.jpg	35000
+cropped/000140.jpg	35000
+cropped/000141.jpg	35000
+cropped/000142.jpg	35000
+cropped/000143.jpg	40000
+cropped/000144.jpg	40000
+cropped/000145.jpg	menu
+cropped/000146.jpg	menu
+cropped/000147.jpg	CARROT
+cropped/000148.jpg	TOMATO
+cropped/000149.jpg	HONEY LEMON
+cropped/000150.jpg	ORANGE, CARROT & GINGER
+cropped/000151.jpg	WATERMELON & PINEAPPLE
+cropped/000152.jpg	ADD GINGER
+cropped/000153.jpg	CHOCOLATE
+cropped/000154.jpg	STRAWBERRY
+cropped/000155.jpg	BANANA
+cropped/000156.jpg	MANGO
+cropped/000157.jpg	CHOCOLATE
+cropped/000158.jpg	STRAWBERRY
+cropped/000159.jpg	BLUEBERRY
+cropped/000160.jpg	RASPBERRY
+cropped/000161.jpg	BLUEBERRY
+cropped/000162.jpg	STRAWBERRY
+cropped/000163.jpg	RASPBERRY
+cropped/000164.jpg	YOGURT BLEND ICES
+cropped/000165.jpg	30000
+cropped/000166.jpg	30000
+cropped/000167.jpg	25000
+cropped/000168.jpg	35000
+cropped/000169.jpg	30000
+cropped/000170.jpg	5000
+cropped/000171.jpg	30000
+cropped/000172.jpg	30000
+cropped/000173.jpg	40000
+cropped/000174.jpg	40000
+cropped/000175.jpg	40000
+cropped/000176.jpg	35000
+cropped/000177.jpg	35000
+cropped/000178.jpg	35000
+cropped/000179.jpg	40000
+cropped/000180.jpg	40000
+cropped/000181.jpg	40000
+cropped/000182.jpg	30000
+cropped/000183.jpg	menu !
+cropped/000184.jpg	café đen
+cropped/000185.jpg	café sữa
+cropped/000186.jpg	café đen sài gòn
+cropped/000187.jpg	café sữa sài gòn
+cropped/000188.jpg	ca cao
+cropped/000189.jpg	bạc xỉu
+cropped/000190.jpg	sữa nóng
+cropped/000191.jpg	yaourt đá
+cropped/000192.jpg	yaourt dâu tây
+cropped/000193.jpg	trà gừng
+cropped/000194.jpg	trà chanh
+cropped/000195.jpg	chanh tươi
+cropped/000196.jpg	10000
+cropped/000197.jpg	12000
+cropped/000198.jpg	12000
+cropped/000199.jpg	15000
+cropped/000200.jpg	18000
+cropped/000201.jpg	18000
+cropped/000202.jpg	15000
+cropped/000203.jpg	20000
+cropped/000204.jpg	25000
+cropped/000205.jpg	15000
+cropped/000206.jpg	15000
+cropped/000207.jpg	15000
+cropped/000208.jpg	ốc len thái xào dừa
+cropped/000209.jpg	càng ghẹ rang muối
+cropped/000210.jpg	càng ghẹ bơ tỏi
+cropped/000211.jpg	càng cúm núm ram me
+cropped/000212.jpg	càng cúm núm bơ tỏi
+cropped/000213.jpg	tóp mỡ chiên mắm
+cropped/000214.jpg	khô cá đuối(mắm me)
+cropped/000215.jpg	khô mực chiên mắm/ nướng
+cropped/000216.jpg	mực một nắng
+cropped/000217.jpg	89000
+cropped/000218.jpg	89000
+cropped/000219.jpg	89000
+cropped/000220.jpg	89000
+cropped/000221.jpg	89000
+cropped/000222.jpg	69000
+cropped/000223.jpg	79000
+cropped/000224.jpg	79000
+cropped/000225.jpg	129000
+cropped/000226.jpg	Nước suối
+cropped/000227.jpg	Đậu nành
+cropped/000228.jpg	Chanh sả
+cropped/000229.jpg	Coca cola
+cropped/000230.jpg	Nha đam
+cropped/000231.jpg	Sữa bắp
+cropped/000232.jpg	Sả tắc hạt chia
+cropped/000233.jpg	Sprite
+cropped/000234.jpg	Fanta cam
+cropped/000235.jpg	Tiger
+cropped/000236.jpg	Bò húc
+cropped/000237.jpg	Heineken
+cropped/000238.jpg	Bia chay
+cropped/000239.jpg	10000
+cropped/000240.jpg	12000
+cropped/000241.jpg	15000
+cropped/000242.jpg	15000
+cropped/000243.jpg	15000
+cropped/000244.jpg	15000
+cropped/000245.jpg	15000
+cropped/000246.jpg	15000
+cropped/000247.jpg	15000
+cropped/000248.jpg	18000
+cropped/000249.jpg	18000
+cropped/000250.jpg	23000
+cropped/000251.jpg	23000
+cropped/000252.jpg	dê xào sả ớt
+cropped/000253.jpg	dê nướng lúc lắc
+cropped/000254.jpg	bẹ dê nướng
+cropped/000255.jpg	sườn non dê nướng
+cropped/000256.jpg	dê nấu măng
+cropped/000257.jpg	sườn dê nấu măng
+cropped/000258.jpg	dê nướng lá lốt
+cropped/000259.jpg	cari dê xương
+cropped/000260.jpg	cari giò dê
+cropped/000261.jpg	lươn xào sả ớt
+cropped/000262.jpg	lươn xào lăn
+cropped/000263.jpg	lươn um chuối
+cropped/000264.jpg	lươn bầm xúc bánh đa
+cropped/000265.jpg	lươn nấu lá giang
+cropped/000266.jpg	115000-170000
+cropped/000267.jpg	130000-180000
+cropped/000268.jpg	115000-170000
+cropped/000269.jpg	120000-185000
+cropped/000270.jpg	130000
+cropped/000271.jpg	130000
+cropped/000272.jpg	115000-170000
+cropped/000273.jpg	150000-170000
+cropped/000274.jpg	190000-220000
+cropped/000275.jpg	120000
+cropped/000276.jpg	120000
+cropped/000277.jpg	120000
+cropped/000278.jpg	120000
+cropped/000279.jpg	120000
+cropped/000280.jpg	cà phê (nóng/ đá)
+cropped/000281.jpg	cà phê sữa (nóng/ đá)
+cropped/000282.jpg	ca cao (nóng / đá)
+cropped/000283.jpg	ca cao sữa (nóng / đá)
+cropped/000284.jpg	bạc xỉu (nóng / đá)
+cropped/000285.jpg	greentea blend
+cropped/000286.jpg	apple pie
+cropped/000287.jpg	kiwi ninja
+cropped/000288.jpg	blueberry
+cropped/000289.jpg	aloe vera
+cropped/000290.jpg	graspberry
+cropped/000291.jpg	tiramisu
+cropped/000292.jpg	trà lipton
+cropped/000293.jpg	SÚP YẾN
+cropped/000294.jpg	SÚP YẾN ĐẶC BIỆT
+cropped/000295.jpg	SÚP VI CÁ
+cropped/000296.jpg	SÚP VI CÁ ĐẶC BIỆT
+cropped/000297.jpg	SÚP HẢI SẢN
+cropped/000298.jpg	SÚP HÀU CẢI
+cropped/000299.jpg	SÚP CUA
+cropped/000300.jpg	250000
+cropped/000301.jpg	200000
+cropped/000302.jpg	300000
+cropped/000303.jpg	BIA TIGER
+cropped/000304.jpg	NƯỚC SUỐI
+cropped/000305.jpg	BẠCH TUỘC HẤP
+cropped/000306.jpg	BÒ MỸ, HÀU PHÔ MAI SỐT CAY
+cropped/000307.jpg	BẠCH TUỘC SỐT THÁI
+cropped/000308.jpg	BÒ NƯỚNG TẢNG
+cropped/000309.jpg	BÒ PHI LÊ NƯỚNG MUỐI ỚT
+cropped/000310.jpg	SET LẨU VÀ NƯỚNG
+cropped/000311.jpg	SƯỜN CÂY NƯỚNG
+cropped/000312.jpg	17000
+cropped/000313.jpg	10000
+cropped/000314.jpg	85000
+cropped/000315.jpg	150000
+cropped/000316.jpg	95000
+cropped/000317.jpg	125000
+cropped/000318.jpg	95000
+cropped/000319.jpg	295000
+cropped/000320.jpg	145000
+cropped/000321.jpg	TRÀ CHANH
+cropped/000322.jpg	TRÀ XOÀI
+cropped/000323.jpg	TRÀ LẮC
+cropped/000324.jpg	TRÀ VẢI
+cropped/000325.jpg	TRÀ ĐÀO
+cropped/000326.jpg	NƯỚC CHANH
+cropped/000327.jpg	NƯỚC DỪA DƯA LƯỚI
+cropped/000328.jpg	TRÀ QUẤT DỨA
+cropped/000329.jpg	TRÀ DƯA LƯỚI
+cropped/000330.jpg	TRÀ ĐÀO CAM SẢ
+cropped/000331.jpg	TRÀ ĐÀO ỔI HỒNG
+cropped/000332.jpg	TRÀ ĐÀO HOA NHÀI
+cropped/000333.jpg	TRÀ VẢI DƯA HẤU
+cropped/000334.jpg	TRÀ QUẤT PHÚC BỒN TỬ
+cropped/000335.jpg	TRÀ CHANH LỤC BẢO
+cropped/000336.jpg	TRÀ CHANH KIM QUẤT
+cropped/000337.jpg	10000
+cropped/000338.jpg	20000
+cropped/000339.jpg	10000
+cropped/000340.jpg	20000
+cropped/000341.jpg	20000
+cropped/000342.jpg	20000
+cropped/000343.jpg	20000
+cropped/000344.jpg	20000
+cropped/000345.jpg	20000
+cropped/000346.jpg	25000
+cropped/000347.jpg	20000
+cropped/000348.jpg	20000
+cropped/000349.jpg	20000
+cropped/000350.jpg	25000
+cropped/000351.jpg	20000
+cropped/000352.jpg	20000
+cropped/000353.jpg	PEPSI
+cropped/000354.jpg	PEPSI KHÔNG CALO
+cropped/000355.jpg	7 UP
+cropped/000356.jpg	RƯỢU SOCHU ĐẾ VƯƠNG BẠC
+cropped/000357.jpg	BIA HENIKEN
+cropped/000358.jpg	RƯỢU SOCHU
+cropped/000359.jpg	RƯỢU MƠ UME HAJIME 300ML
+cropped/000360.jpg	RƯỢU MƠ UME HAJIME 500ML
+cropped/000361.jpg	RƯỢU MƠ UME HAJIME 1800ML
+cropped/000362.jpg	RƯỢU SAKE ETSUNO HAJIME 180ML
+cropped/000363.jpg	RƯỢU SAKE ETSUNO HAJIME 300ML
+cropped/000364.jpg	RƯỢU SAKE ETSUNO HAJIME 350ML
+cropped/000365.jpg	RƯỢU SAKE ETSUNO HAJIME 1800ML
+cropped/000366.jpg	NƯỚC SUỐI
+cropped/000367.jpg	20000
+cropped/000368.jpg	20000
+cropped/000369.jpg	20000
+cropped/000370.jpg	279000
+cropped/000371.jpg	25000
+cropped/000372.jpg	90000
+cropped/000373.jpg	179000
+cropped/000374.jpg	269000
+cropped/000375.jpg	799000
+cropped/000376.jpg	79000
+cropped/000377.jpg	199000
+cropped/000378.jpg	359000
+cropped/000379.jpg	899000
+cropped/000380.jpg	15000
+cropped/000381.jpg	trà kiwi chanh leo nha đam
+cropped/000382.jpg	kem trứng truyền thống
+cropped/000383.jpg	kem trứng socola
+cropped/000384.jpg	kem trứng matcha
+cropped/000385.jpg	kem trứng vani
+cropped/000386.jpg	kem trứng caramen
+cropped/000387.jpg	kem trứng hạt dẻ
+cropped/000388.jpg	kem trứng trân châu đường đen
+cropped/000389.jpg	kem trứng đậu xanh hạt sen
+cropped/000390.jpg	dừa dầm truyền thống
+cropped/000391.jpg	dừa dầm cacao
+cropped/000392.jpg	dừa dầm xoài
+cropped/000393.jpg	dừa dầm mận
+cropped/000394.jpg	dừa dầm nho
+cropped/000395.jpg	dừa dầm sầu riêng
+cropped/000396.jpg	cà phê đen - nâu
+cropped/000397.jpg	cacao đá - nóng
+cropped/000398.jpg	cà phê kem trứng
+cropped/000399.jpg	hạt hướng dương
+cropped/000400.jpg	khô gà lá chanh
+cropped/000401.jpg	trân châu trắng
+cropped/000402.jpg	trân châu caramen
+cropped/000403.jpg	trân châu đen
+cropped/000404.jpg	nha đam
+cropped/000405.jpg	25000
+cropped/000406.jpg	20000
+cropped/000407.jpg	25000
+cropped/000408.jpg	25000
+cropped/000409.jpg	25000
+cropped/000410.jpg	25000
+cropped/000411.jpg	25000
+cropped/000412.jpg	30000
+cropped/000413.jpg	20000
+cropped/000414.jpg	15000
+cropped/000415.jpg	25000
+cropped/000416.jpg	25000
+cropped/000417.jpg	25000
+cropped/000418.jpg	25000
+cropped/000419.jpg	25000
+cropped/000420.jpg	15000
+cropped/000421.jpg	20000
+cropped/000422.jpg	20000
+cropped/000423.jpg	15000
+cropped/000424.jpg	25000
+cropped/000425.jpg	5000
+cropped/000426.jpg	5000
+cropped/000427.jpg	5000
+cropped/000428.jpg	5000
+cropped/000429.jpg	Xoài Lắc
+cropped/000430.jpg	Gà Tươi Rán
+cropped/000431.jpg	Xúc Xích
+cropped/000432.jpg	Cá Viên Chiên
+cropped/000433.jpg	Nem Chua
+cropped/000434.jpg	Lạp Xưởng
+cropped/000435.jpg	Sữa Chua Mít
+cropped/000436.jpg	Trà Sữa Đủ Giá
+cropped/000437.jpg	Kem Các Loại
+cropped/000438.jpg	Phô Mai Que
+cropped/000439.jpg	Tép Dĩa
+cropped/000440.jpg	Bánh Tráng Trộn
+cropped/000441.jpg	Sô Đa
+cropped/000442.jpg	Trà Thái
+cropped/000443.jpg	Nước Giải Khát Các Loại
+cropped/000444.jpg	Bò Khô
+cropped/000445.jpg	Gà Xé Cay
+cropped/000446.jpg	Ô Mai
+cropped/000447.jpg	Bim Bim Đủ Loại
+cropped/000448.jpg	20000
+cropped/000449.jpg	5000
+cropped/000450.jpg	5000
+cropped/000451.jpg	5000
+cropped/000452.jpg	5000
+cropped/000453.jpg	10000
+cropped/000454.jpg	5000
+cropped/000455.jpg	5000
+cropped/000456.jpg	5000
+cropped/000457.jpg	ba rọi bò mỹ nướng
+cropped/000458.jpg	ba rọi heo nướng
+cropped/000459.jpg	ba rọi bò mỹ cuộn kim châm
+cropped/000460.jpg	chả ram tôm đất
+cropped/000461.jpg	bắp xào
+cropped/000462.jpg	rau cải xào nấm
+cropped/000463.jpg	sụn gà chiên mắm
+cropped/000464.jpg	cánh gà chiên mắm
+cropped/000465.jpg	ốc móng tay xào rau muống
+cropped/000466.jpg	bò bbq
+cropped/000467.jpg	bò cuộn phomai
+cropped/000468.jpg	cá diêu hồng nướng sa tế
+cropped/000469.jpg	lưỡi heo nướng mắm nhĩ
+cropped/000470.jpg	cổ bạch tuộc nướng sa tế
+cropped/000471.jpg	mực nang nướng
+cropped/000472.jpg	ếch xào xả ớt
+cropped/000473.jpg	ếch nướng sa tế
+cropped/000474.jpg	35000
+cropped/000475.jpg	35000
+cropped/000476.jpg	35000
+cropped/000477.jpg	35000
+cropped/000478.jpg	35000
+cropped/000479.jpg	35000
+cropped/000480.jpg	35000
+cropped/000481.jpg	35000
+cropped/000482.jpg	35000
+cropped/000483.jpg	35000
+cropped/000484.jpg	35000
+cropped/000485.jpg	35000
+cropped/000486.jpg	35000
+cropped/000487.jpg	35000
+cropped/000488.jpg	35000
+cropped/000489.jpg	35000
+cropped/000490.jpg	35000
+cropped/000491.jpg	sò điệp nướng mỡ hành
+cropped/000492.jpg	xúc xích nướng
+cropped/000493.jpg	đùi gà rút xương nướng
+cropped/000494.jpg	đạu non dăm bông
+cropped/000495.jpg	lườn cá hồi nướng
+cropped/000496.jpg	bẹ sữa nướng sa tế
+cropped/000497.jpg	bạch tuộc nhảy múa
+cropped/000498.jpg	mực cơm nướng sa tế
+cropped/000499.jpg	dồi dê nướng
+cropped/000500.jpg	chả cá viên chiên
+cropped/000501.jpg	đậu khuôn chiên cuốn lá cải
+cropped/000502.jpg	hồ lô nướng
+cropped/000503.jpg	35000
+cropped/000504.jpg	35000
+cropped/000505.jpg	35000
+cropped/000506.jpg	35000
+cropped/000507.jpg	35000
+cropped/000508.jpg	35000
+cropped/000509.jpg	35000
+cropped/000510.jpg	35000
+cropped/000511.jpg	35000
+cropped/000512.jpg	35000
+cropped/000513.jpg	35000
+cropped/000514.jpg	35000
+cropped/000515.jpg	PIZZA BÒ ÚC NHỎ
+cropped/000516.jpg	PIZZA BÒ ÚC LỚN
+cropped/000517.jpg	PIZZA THẬP CẨM NHỎ
+cropped/000518.jpg	PIZZA THẬP CẨM LỚN
+cropped/000519.jpg	PIZZA XÚC XÍCH HUN KHÓI NHỎ
+cropped/000520.jpg	PIZZA XÚC XÍCH HUN KHÓI LỚN
+cropped/000521.jpg	PIZZA HAWAIIAN NHỎ
+cropped/000522.jpg	PIZZA HAWAIIAN LƯỚN
+cropped/000523.jpg	TÔM TỎI VÀ THỊT XÔNG KHÓI NHỎ
+cropped/000524.jpg	TÔM TỎI VÀ THỊT XÔNG KHÓI LỚN
+cropped/000525.jpg	BBQ CHICKEN GÀ NHỎ
+cropped/000526.jpg	BBQ CHICKEN GÀ LỚN
+cropped/000527.jpg	PIZZA MEATLOVERS NHỎ
+cropped/000528.jpg	PIZZA MEATLOVERS LỚN
+cropped/000529.jpg	250000
+cropped/000530.jpg	245000
+cropped/000531.jpg	95000
+cropped/000532.jpg	190000
+cropped/000533.jpg	90000
+cropped/000534.jpg	185000
+cropped/000535.jpg	90000
+cropped/000536.jpg	185000
+cropped/000537.jpg	85000
+cropped/000538.jpg	170000
+cropped/000539.jpg	90000
+cropped/000540.jpg	185000
+cropped/000541.jpg	Cơm Trộn Thố Đá
+cropped/000542.jpg	Cơm Chiên Cá Hồi
+cropped/000543.jpg	Cơm Gà Trứng
+cropped/000544.jpg	Cơm Heo Chiên Xù Trứng
+cropped/000545.jpg	Cơm Chiên Kim Chi Hải Sản
+cropped/000546.jpg	Cơm Chiên Nhật
+cropped/000547.jpg	149000
+cropped/000548.jpg	129000
+cropped/000549.jpg	79000
+cropped/000550.jpg	89000
+cropped/000551.jpg	99000
+cropped/000552.jpg	99000
+cropped/000553.jpg	NẤM
+cropped/000554.jpg	Ô LIU
+cropped/000555.jpg	GÀ
+cropped/000556.jpg	HÀNH TÂY
+cropped/000557.jpg	TIÊU
+cropped/000558.jpg	XÚC XÍCH XÔNG KHÓI
+cropped/000559.jpg	CÀ CHUA
+cropped/000560.jpg	DỨA
+cropped/000561.jpg	PHÔ MAI FETA
+cropped/000562.jpg	TRỨNG
+cropped/000563.jpg	TÔM
+cropped/000564.jpg	PHÔ MAI BLUE
+cropped/000565.jpg	GIÂM BÔNG
+cropped/000566.jpg	BACON
+cropped/000567.jpg	40000
+cropped/000568.jpg	20000
+cropped/000569.jpg	45000
+cropped/000570.jpg	10000
+cropped/000571.jpg	10000
+cropped/000572.jpg	60000
+cropped/000573.jpg	10000
+cropped/000574.jpg	10000
+cropped/000575.jpg	25000
+cropped/000576.jpg	10000
+cropped/000577.jpg	50000
+cropped/000578.jpg	40000
+cropped/000579.jpg	60000
+cropped/000580.jpg	60000
+cropped/000581.jpg	PIZZA KEM GÀ THỊT XÔNG KHÓI NHỎ
+cropped/000582.jpg	PIZZA KEM GÀ THỊT XÔNG KHÓI LỚN
+cropped/000583.jpg	PIZZA HẢI SẢN NHỎ
+cropped/000584.jpg	PIZZA HẢI SẢN LỚN
+cropped/000585.jpg	PIZZA MARGARITA NHỎ
+cropped/000586.jpg	PIZZA MARGARITA LỚN
+cropped/000587.jpg	PIZZA PHÔ MAI NHỎ
+cropped/000588.jpg	PIZZA PHÔ MAI LỚN
+cropped/000589.jpg	PIZZA BREAKFAST NHỎ
+cropped/000590.jpg	PIZZA BREAKFAST LỚN
+cropped/000591.jpg	85000
+cropped/000592.jpg	170000
+cropped/000593.jpg	90000
+cropped/000594.jpg	185000
+cropped/000595.jpg	65000
+cropped/000596.jpg	120000
+cropped/000597.jpg	85000
+cropped/000598.jpg	170000
+cropped/000599.jpg	90000
+cropped/000600.jpg	185000
+cropped/000601.jpg	Sake Maki Furai
+cropped/000602.jpg	Futomaki
+cropped/000603.jpg	Sake Abogado Maki
+cropped/000604.jpg	Natto Maki
+cropped/000605.jpg	Tekka Maki
+cropped/000606.jpg	Kappa Maki
+cropped/000607.jpg	Shake Tempura Maki
+cropped/000608.jpg	California Roll
+cropped/000609.jpg	120000
+cropped/000610.jpg	120000
+cropped/000611.jpg	120000
+cropped/000612.jpg	80000
+cropped/000613.jpg	100000
+cropped/000614.jpg	40000
+cropped/000615.jpg	120000
+cropped/000616.jpg	120000
+cropped/000617.jpg	kem vani
+cropped/000618.jpg	kem vani trân châu đen
+cropped/000619.jpg	kem vani trân châu trắng
+cropped/000620.jpg	kem socola
+cropped/000621.jpg	kem sốt dâu
+cropped/000622.jpg	kem sốt việt quất
+cropped/000623.jpg	kem vị cofe
+cropped/000624.jpg	kem bạc hà
+cropped/000625.jpg	kem sốt dưa lưới
+cropped/000626.jpg	kem sốt kiwi
+cropped/000627.jpg	kem sốt ổi hồng
+cropped/000628.jpg	kem sốt đào
+cropped/000629.jpg	kem sốt xoài
+cropped/000630.jpg	kem matcha
+cropped/000631.jpg	kem matcha socola
+cropped/000632.jpg	6000
+cropped/000633.jpg	10000
+cropped/000634.jpg	10000
+cropped/000635.jpg	10000
+cropped/000636.jpg	10000
+cropped/000637.jpg	10000
+cropped/000638.jpg	10000
+cropped/000639.jpg	10000
+cropped/000640.jpg	10000
+cropped/000641.jpg	10000
+cropped/000642.jpg	10000
+cropped/000643.jpg	10000
+cropped/000644.jpg	10000
+cropped/000645.jpg	10000
+cropped/000646.jpg	12000
+cropped/000647.jpg	Cá rô phi nướng muối ớt
+cropped/000648.jpg	Cá trạch đồng nướng, chiên lá lốt
+cropped/000649.jpg	Cá trạch làn nướng/ chiên/ om chuối đậu/ om riềng mè
+cropped/000650.jpg	Cá đục chiên giòn/ kho tương
+cropped/000651.jpg	Cá rô phi nướng muối ớt
+cropped/000652.jpg	Cá suối chiên giòn
+cropped/000653.jpg	Cá trạch đồng nướng, chiên lá lốt
+cropped/000654.jpg	Cá trạch làn nướng/ chiên/ om chuối đậu/ om riềng mè
+cropped/000655.jpg	Chả ốc
+cropped/000656.jpg	Ếch chiên bơ
+cropped/000657.jpg	Ếch om chuối đậu (bún)
+cropped/000658.jpg	Ếch rang muối
+cropped/000659.jpg	Ếch tẩm bột chiên
+cropped/000660.jpg	Ếch xào lá lốt
+cropped/000661.jpg	Ếch xào sả ớt
+cropped/000662.jpg	Ốc nhồi hấp gừng
+cropped/000663.jpg	Ốc om chuối đậu
+cropped/000664.jpg	Ốc xào chuối đậu
+cropped/000665.jpg	150000
+cropped/000666.jpg	150000
+cropped/000667.jpg	300000
+cropped/000668.jpg	120000
+cropped/000669.jpg	150000
+cropped/000670.jpg	120000
+cropped/000671.jpg	150000
+cropped/000672.jpg	300000
+cropped/000673.jpg	150000
+cropped/000674.jpg	120000
+cropped/000675.jpg	200000
+cropped/000676.jpg	120000
+cropped/000677.jpg	120000
+cropped/000678.jpg	120000
+cropped/000679.jpg	120000
+cropped/000680.jpg	150000
+cropped/000681.jpg	200000
+cropped/000682.jpg	120000
+cropped/000683.jpg	DAISY BLOOM
+cropped/000684.jpg	AMBER ISLAND
+cropped/000685.jpg	50000
+cropped/000686.jpg	50000
+cropped/000687.jpg	trà sữa khoai môn đặc biệt full topping l
+cropped/000688.jpg	trà sữa khoai khoai môn trân châu đen trắng l
+cropped/000689.jpg	trà sữa socola đặc biệt full topping l
+cropped/000690.jpg	sữa tươi trân châu đường đen l
+cropped/000691.jpg	sữa tươi trân châu đường đen 4 tầng kem trứng nướng l
+cropped/000692.jpg	sữa tươi caphe sương sáo l
+cropped/000693.jpg	sữa tươi kem trứng dừa nướng l
+cropped/000694.jpg	sữa tươi kem trứng oreo l
+cropped/000695.jpg	sữa tươi kem trứng brulle trứng muối l
+cropped/000696.jpg	milo dầm trân châu đường đen đặc biệt full topping m
+cropped/000697.jpg	trà xanh dưa hấu l
+cropped/000698.jpg	trà ổi hồng l
+cropped/000699.jpg	trân châu đen trắng
+cropped/000700.jpg	kem flan
+cropped/000701.jpg	kem trứng
+cropped/000702.jpg	bánh milo
+cropped/000703.jpg	pudding
+cropped/000704.jpg	23000
+cropped/000705.jpg	20000
+cropped/000706.jpg	23000
+cropped/000707.jpg	25000
+cropped/000708.jpg	25000
+cropped/000709.jpg	25000
+cropped/000710.jpg	25000
+cropped/000711.jpg	25000
+cropped/000712.jpg	25000
+cropped/000713.jpg	25000
+cropped/000714.jpg	17000
+cropped/000715.jpg	5000
+cropped/000716.jpg	5000
+cropped/000717.jpg	5000
+cropped/000718.jpg	5000
+cropped/000719.jpg	5000
+cropped/000720.jpg	25000
+cropped/000721.jpg	Heineken Bạc Chai
+cropped/000722.jpg	Heineken Bạc Lon
+cropped/000723.jpg	Tiger Nâu Chai
+cropped/000724.jpg	Tiger Lon
+cropped/000725.jpg	Tiger Bạc Chai
+cropped/000726.jpg	Tiger Bạc Lon
+cropped/000727.jpg	Bivina
+cropped/000728.jpg	Quy Nhơn
+cropped/000729.jpg	Rượu Táo Mèo
+cropped/000730.jpg	Rượu Ngọc Dương
+cropped/000731.jpg	Rượu Sâm Cau
+cropped/000732.jpg	Rượu Mật Ong
+cropped/000733.jpg	Bò Húc
+cropped/000734.jpg	Coca / Pepsi / 7up
+cropped/000735.jpg	Nước suối
+cropped/000736.jpg	Khăn Lạnh
+cropped/000737.jpg	21000
+cropped/000738.jpg	23000
+cropped/000739.jpg	16000
+cropped/000740.jpg	18000
+cropped/000741.jpg	17000
+cropped/000742.jpg	20000
+cropped/000743.jpg	14000
+cropped/000744.jpg	8000
+cropped/000745.jpg	30000
+cropped/000746.jpg	45000
+cropped/000747.jpg	30000
+cropped/000748.jpg	30000
+cropped/000749.jpg	18000
+cropped/000750.jpg	15000
+cropped/000751.jpg	10000
+cropped/000752.jpg	3000
+cropped/000753.jpg	Chả Ram Tôm Đất
+cropped/000754.jpg	Đậu Hủ Chiên
+cropped/000755.jpg	Sụn Gà Chiên Mắm
+cropped/000756.jpg	Trứng Non Dạ Trường Cháy Tỏi
+cropped/000757.jpg	Cá Thác Lác Rút Xương
+cropped/000758.jpg	Chả Cá Chiên + Rau Sống
+cropped/000759.jpg	Chả Cá Nấu Khổ Qua
+cropped/000760.jpg	Bò Lúc Lắc
+cropped/000761.jpg	Bò Sốt Phô Mai
+cropped/000762.jpg	Bò Nướng Muối Ớt
+cropped/000763.jpg	70000
+cropped/000764.jpg	50000
+cropped/000765.jpg	90000
+cropped/000766.jpg	120000
+cropped/000767.jpg	120000
+cropped/000768.jpg	110000
+cropped/000769.jpg	120000
+cropped/000770.jpg	120000
+cropped/000771.jpg	120000
+cropped/000772.jpg	110000
+cropped/000773.jpg	Bò Nướng Nấm Kim Châm
+cropped/000774.jpg	Gân Móng Hấp Sả
+cropped/000775.jpg	Giò Heo Quảng Đông
+cropped/000776.jpg	Gà Chiên Mắm
+cropped/000777.jpg	Gà Lên Mâm
+cropped/000778.jpg	Bạch Tuộc Sốt Phô Mai
+cropped/000779.jpg	120000
+cropped/000780.jpg	100000
+cropped/000781.jpg	180000
+cropped/000782.jpg	320000
+cropped/000783.jpg	330000
+cropped/000784.jpg	120000
+cropped/000785.jpg	CƠM CHIÊN CÁ MẶN
+cropped/000786.jpg	CƠM CHIÊN HẢI SẢN
+cropped/000787.jpg	CƠM CHIÊN DƯƠNG CHÂU
+cropped/000788.jpg	CƠM CHIÊN TRỨNG
+cropped/000789.jpg	CƠM CHIÊN TỎI
+cropped/000790.jpg	CƠM CHIÊN MUỐI ỚT
+cropped/000791.jpg	CƠM CHIÊN CHAY
+cropped/000792.jpg	MÌ XÀO HẢI SẢN
+cropped/000793.jpg	MÌ XÀO THỊT BÒ
+cropped/000794.jpg	MÌ XÀO CHAY
+cropped/000795.jpg	MÌ XÀO RAU
+cropped/000796.jpg	MIẾN XÀO HẢI SẢN
+cropped/000797.jpg	BÚN SONG THẰN XÀO HẢI SẢN
+cropped/000798.jpg	BÚN SONG THẰN XÀO CUA
+cropped/000799.jpg	restaurant
+cropped/000800.jpg	name
+cropped/000801.jpg	menu
+cropped/000802.jpg	CƠM GÀ QUAY
+cropped/000803.jpg	CƠM GÀ CHIÊN
+cropped/000804.jpg	CƠM GÀ NƯỚNG NGŨ VỊ
+cropped/000805.jpg	CƠM TẤM SƯỜN BÌ
+cropped/000806.jpg	CƠM TẤM SƯỜN CHẢ NƯỚNG
+cropped/000807.jpg	CƠM TẤM SƯỜN TRỨNG
+cropped/000808.jpg	CƠM TẤM SƯỜN QUE
+cropped/000809.jpg	CƠM TẤM SƯỜN BÌ CHẢ
+cropped/000810.jpg	CƠM TẤM SƯỜN BÌ ỐP LA
+cropped/000811.jpg	CƠM TẤM SƯỜN CHẢ ỐP LA
+cropped/000812.jpg	CƠM TẤM SƯỜN LẠP XƯỞNG TRỨNG MUỐI
+cropped/000813.jpg	CƠM TẤM SƯỜN XÍU MẠI
+cropped/000814.jpg	70000
+cropped/000815.jpg	70000
+cropped/000816.jpg	70000
+cropped/000817.jpg	40000
+cropped/000818.jpg	45000
+cropped/000819.jpg	45000
+cropped/000820.jpg	45000
+cropped/000821.jpg	50000
+cropped/000822.jpg	50000
+cropped/000823.jpg	50000
+cropped/000824.jpg	50000
+cropped/000825.jpg	50000
+cropped/000826.jpg	RONG BIỂN TRỘN MÈ
+cropped/000827.jpg	RONG NHO TƯƠI
+cropped/000828.jpg	ĐẬU NÀNH LUỘC
+cropped/000829.jpg	KIM CHI
+cropped/000830.jpg	TRỨNG CUỘN KIỂU NHẬT
+cropped/000831.jpg	LÁ RONG BIỂN
+cropped/000832.jpg	SALAD CÁ HỒI
+cropped/000833.jpg	SALAD CÁ TRÍCH
+cropped/000834.jpg	SALAD CÁ NGỪ
+cropped/000835.jpg	SALAD DA CÁ HỒI
+cropped/000836.jpg	SALAD THANH CUA
+cropped/000837.jpg	SALAD RONG BIỂN TRỨNG TÔM
+cropped/000838.jpg	SALAD BƠ
+cropped/000839.jpg	SALAD TRỨNG
+cropped/000840.jpg	SALAD RONG NHO
+cropped/000841.jpg	39000
+cropped/000842.jpg	22000
+cropped/000843.jpg	29000
+cropped/000844.jpg	20000
+cropped/000845.jpg	27000
+cropped/000846.jpg	24000
+cropped/000847.jpg	69000
+cropped/000848.jpg	79000
+cropped/000849.jpg	59000
+cropped/000850.jpg	59000
+cropped/000851.jpg	59000
+cropped/000852.jpg	79000
+cropped/000853.jpg	59000
+cropped/000854.jpg	32000
+cropped/000855.jpg	39000
+cropped/000856.jpg	BA RỌI BÒ MỸ NƯỚNG
+cropped/000857.jpg	BA RỌI HEO NƯỚNG
+cropped/000858.jpg	BẠCH TUỘC NƯỚNG
+cropped/000859.jpg	BÒ BBQ
+cropped/000860.jpg	BÒ CUỘN PHOMAI
+cropped/000861.jpg	CHÂN GÀ CHIÊN MẮM
+cropped/000862.jpg	XÌA HẤP THÁI
+cropped/000863.jpg	COMBO 2 NGƯỜI
+cropped/000864.jpg	COMBO 4 NGƯỜI
+cropped/000865.jpg	COMBO 6 NGƯỜI
+cropped/000866.jpg	SỤN GÀ CHIÊN GIÒN
+cropped/000867.jpg	SỤN GÀ CHIÊN MẮM
+cropped/000868.jpg	CÁNH GÀ CHIÊN MẮM
+cropped/000869.jpg	CHẢ GHẸ CHIÊN
+cropped/000870.jpg	CƠM CHIÊN TRỨNG
+cropped/000871.jpg	CHẢ RAM TÔM ĐẤT
+cropped/000872.jpg	DỒI SỤN PHÔ MAI
+cropped/000873.jpg	MỰC CƠM CHIÊN TỎI
+cropped/000874.jpg	BẸ SỮA NƯỚNG SATE
+cropped/000875.jpg	CƠM CHIÊN HẢI SẢN
+cropped/000876.jpg	BA RỌI BÒ CUỘN NẤM
+cropped/000877.jpg	TÔM SỐT CHUA NGỌT
+cropped/000878.jpg	MÌ XÀO BÒ
+cropped/000879.jpg	MÌ XÀO NẤM
+cropped/000880.jpg	MÌ XÀO HẢI SẢN
+cropped/000881.jpg	ẾCH XÀO SẢ ỚT
+cropped/000882.jpg	ĐẬU NON DĂM BÔNG
+cropped/000883.jpg	SALAD RAU
+cropped/000884.jpg	RAU XÀO NẤM
+cropped/000885.jpg	ẾCH NƯỚNG SATE
+cropped/000886.jpg	HÀU SỮA NƯỚNG
+cropped/000887.jpg	LƯỠI HEO NƯỚNG MẮM
+cropped/000888.jpg	LƯỜN CÁ HỒI NƯỚNG
+cropped/000889.jpg	MỰC CƠM NƯỚNG
+cropped/000890.jpg	SÒ ĐIỆP NƯỚNG MỠ HÀNH
+cropped/000891.jpg	SƯỜN HEO NƯỚNG
+cropped/000892.jpg	79000
+cropped/000893.jpg	59000
+cropped/000894.jpg	69000
+cropped/000895.jpg	49000
+cropped/000896.jpg	69000
+cropped/000897.jpg	49000
+cropped/000898.jpg	59000
+cropped/000899.jpg	320000
+cropped/000900.jpg	430000
+cropped/000901.jpg	650000
+cropped/000902.jpg	59000
+cropped/000903.jpg	59000
+cropped/000904.jpg	49000
+cropped/000905.jpg	79000
+cropped/000906.jpg	49000
+cropped/000907.jpg	59000
+cropped/000908.jpg	59000
+cropped/000909.jpg	79000
+cropped/000910.jpg	79000
+cropped/000911.jpg	69000
+cropped/000912.jpg	79000
+cropped/000913.jpg	79000
+cropped/000914.jpg	49000
+cropped/000915.jpg	49000
+cropped/000916.jpg	59000
+cropped/000917.jpg	49000
+cropped/000918.jpg	59000
+cropped/000919.jpg	49000
+cropped/000920.jpg	49000
+cropped/000921.jpg	49000
+cropped/000922.jpg	69000
+cropped/000923.jpg	49000
+cropped/000924.jpg	49000
+cropped/000925.jpg	49000
+cropped/000926.jpg	49000
+cropped/000927.jpg	49000
+cropped/000928.jpg	CƠM GÀ CHIÊN
+cropped/000929.jpg	CƠM GÀ XÉ
+cropped/000930.jpg	CƠM GÀ Ò Ó O
+cropped/000931.jpg	QÙI GÀ CƠ BẮP
+cropped/000932.jpg	GÀ LÊN MÂM
+cropped/000933.jpg	GÀ CƠ BẮP
+cropped/000934.jpg	PEPSI
+cropped/000935.jpg	COCA
+cropped/000936.jpg	REDBULL
+cropped/000937.jpg	NƯỚC SUỐI
+cropped/000938.jpg	SỮA QẬU NÀNH
+cropped/000939.jpg	RAU CÂU
+cropped/000940.jpg	30000
+cropped/000941.jpg	30000
+cropped/000942.jpg	45000
+cropped/000943.jpg	30000
+cropped/000944.jpg	260000
+cropped/000945.jpg	260000
+cropped/000946.jpg	12000
+cropped/000947.jpg	12000
+cropped/000948.jpg	15000
+cropped/000949.jpg	5000
+cropped/000950.jpg	6000
+cropped/000951.jpg	6000
+cropped/000952.jpg	TRÀ SỮA TRÂN CHÂU HOÀNG GIA SIZE L
+cropped/000953.jpg	TRÀ SỮA TRÂN CHÂU HOÀNG GIA SIZE M
+cropped/000954.jpg	TRÀ SỮA SOCOLA NGỌC TRAI SIZE L
+cropped/000955.jpg	TRÀ SỮA SOCOLA NGỌC TRAI SIZE M
+cropped/000956.jpg	TRÀ SỮA Ô LONG BẠC HÀ SIZE L
+cropped/000957.jpg	TRÀ SỮA Ô LONG BẠC HÀ SIZE M
+cropped/000958.jpg	TRÀ SỮA Ô LONG DÂU RỪNG SIZE L
+cropped/000959.jpg	TRÀ SỮA Ô LONG DÂU RỪNG SIZE M
+cropped/000960.jpg	TRÀ SỮA Ô LONG DƯA HẤU SIZE L
+cropped/000961.jpg	TRÀ SỮA Ô LONG DƯA HẤU SIZE M
+cropped/000962.jpg	TRÀ SỮA KHOAI LANG TÍM SỮA DỪA SIZE L
+cropped/000963.jpg	TRÀ SỮA KHOAI LANG TÍM SỮA DỪA SIZE M
+cropped/000964.jpg	TRÀ SỮA KHOAI MÔN KEM CHEESE SIZE L
+cropped/000965.jpg	TRÀ SỮA KHOAI MÔN KEM CHEESE SIZE M
+cropped/000966.jpg	28000
+cropped/000967.jpg	23000
+cropped/000968.jpg	30000
+cropped/000969.jpg	25000
+cropped/000970.jpg	28000
+cropped/000971.jpg	23000
+cropped/000972.jpg	28000
+cropped/000973.jpg	23000
+cropped/000974.jpg	28000
+cropped/000975.jpg	23000
+cropped/000976.jpg	34000
+cropped/000977.jpg	29000
+cropped/000978.jpg	34000
+cropped/000979.jpg	29000
+cropped/000980.jpg	restaurant
+cropped/000981.jpg	name
+cropped/000982.jpg	menu
+cropped/000983.jpg	SỮA TƯƠI TRÂN CHÂU ĐƯỜNG ĐEN SIZE L
+cropped/000984.jpg	SỮA TƯƠI TRÂN CHÂU ĐƯỜNG ĐEN SIZE M
+cropped/000985.jpg	TRÀ SỮA SẦU RIÊNG SIZE L
+cropped/000986.jpg	TRÀ SỮA SẦU RIÊNG SIZE M
+cropped/000987.jpg	TRÀ SỮA DƯA GANG SIZE L
+cropped/000988.jpg	TRÀ SỮA DƯA GANG SIZE M
+cropped/000989.jpg	TRÀ SỮA HƯƠNG ĐÀO SIZE L
+cropped/000990.jpg	TRÀ SỮA HƯƠNG ĐÀO SIZE M
+cropped/000991.jpg	TRÀ SỮA MATCHA KEM CHEESE SIZE L
+cropped/000992.jpg	TRÀ SỮA MATCHA KEM CHEESE SIZE M
+cropped/000993.jpg	34000
+cropped/000994.jpg	29000
+cropped/000995.jpg	34000
+cropped/000996.jpg	29000
+cropped/000997.jpg	34000
+cropped/000998.jpg	29000
+cropped/000999.jpg	28000
+cropped/001000.jpg	23000
+cropped/001001.jpg	34000
+cropped/001002.jpg	29000
+cropped/001003.jpg	SÒ ĐIỆP HẤP
+cropped/001004.jpg	SÒ ĐIỆP NƯỚNG
+cropped/001005.jpg	SÒ ĐIỆP NƯỚNG MỠ HÀNH
+cropped/001006.jpg	SÒ ĐIỆP NƯỚNG PHÔ MAI
+cropped/001007.jpg	22000
+cropped/001008.jpg	22000
+cropped/001009.jpg	22000
+cropped/001010.jpg	22000
+cropped/001011.jpg	restaurant
+cropped/001012.jpg	name
+cropped/001013.jpg	menu
+cropped/001014.jpg	Rong Biển Trộn Dầu Mè
+cropped/001015.jpg	Bạch Tuộc Trộn Mù Tạt
+cropped/001016.jpg	Rong Nho
+cropped/001017.jpg	Kim Chi
+cropped/001018.jpg	Lá Rong Biển
+cropped/001019.jpg	Khoai Tây&củ Sen Lắc Phô Mai
+cropped/001020.jpg	Đậu Nành Nhật Xào
+cropped/001021.jpg	Đậu Nành Nhật
+cropped/001022.jpg	38000
+cropped/001023.jpg	42000
+cropped/001024.jpg	20000
+cropped/001025.jpg	20000
+cropped/001026.jpg	25000
+cropped/001027.jpg	30000
+cropped/001028.jpg	37000
+cropped/001029.jpg	30000
+cropped/001030.jpg	Trà đào cam sả m
+cropped/001031.jpg	Trà đào cam sả l
+cropped/001032.jpg	Trà dâu rim m
+cropped/001033.jpg	Trà dâu rim l
+cropped/001034.jpg	Trà nho m
+cropped/001035.jpg	Trà nho l
+cropped/001036.jpg	Trà ổi hồng cà chua m
+cropped/001037.jpg	Trà ổi hồng cà chua l
+cropped/001038.jpg	Cam tươi m
+cropped/001039.jpg	Cam tươi l
+cropped/001040.jpg	Chanh dây machiato m
+cropped/001041.jpg	Chanh dây machiato l
+cropped/001042.jpg	Chè khúc bạch trái cây
+cropped/001043.jpg	Chè mít đác rim flan
+cropped/001044.jpg	Chè mít đác rim sầu riêng
+cropped/001045.jpg	Chè mít đác rim đặc biệt
+cropped/001046.jpg	Chè khoai dẻo flan
+cropped/001047.jpg	Chè khoai dẻo sầu riêng
+cropped/001048.jpg	Chè khoai dẻo đặc biệt
+cropped/001049.jpg	Chè sầu nhà bin
+cropped/001050.jpg	Bánh lotj cốt dừa
+cropped/001051.jpg	25000
+cropped/001052.jpg	30000
+cropped/001053.jpg	26000
+cropped/001054.jpg	30000
+cropped/001055.jpg	20000
+cropped/001056.jpg	28000
+cropped/001057.jpg	26000
+cropped/001058.jpg	32000
+cropped/001059.jpg	20000
+cropped/001060.jpg	26000
+cropped/001061.jpg	25000
+cropped/001062.jpg	30000
+cropped/001063.jpg	25000
+cropped/001064.jpg	26000
+cropped/001065.jpg	28000
+cropped/001066.jpg	33000
+cropped/001067.jpg	25000
+cropped/001068.jpg	28000
+cropped/001069.jpg	33000
+cropped/001070.jpg	25000
+cropped/001071.jpg	18000
+cropped/001072.jpg	KEM TRÁI DỪA
+cropped/001073.jpg	KEM TRÁI DỪA SẦU RIÊNG
+cropped/001074.jpg	KEM PHI THUYỀN
+cropped/001075.jpg	THẠCH RAU CÂU DỪA XIÊM
+cropped/001076.jpg	THẠCH RAU CÂU SẦU RIÊNG
+cropped/001077.jpg	DỪA NƯỚC
+cropped/001078.jpg	CHÈ SẦU BÀ LIÊN ĐÀ NẴNG
+cropped/001079.jpg	KEM LY
+cropped/001080.jpg	KEM LY SOCOLA
+cropped/001081.jpg	HƯỚNG DƯƠNG
+cropped/001082.jpg	60000
+cropped/001083.jpg	60000
+cropped/001084.jpg	50000
+cropped/001085.jpg	45000
+cropped/001086.jpg	45000
+cropped/001087.jpg	30000
+cropped/001088.jpg	35000
+cropped/001089.jpg	35000
+cropped/001090.jpg	40000
+cropped/001091.jpg	15000
+cropped/001092.jpg	restaurant
+cropped/001093.jpg	name
+cropped/001094.jpg	menu
+cropped/001095.jpg	Bún chả miếng, chả viên
+cropped/001096.jpg	Suất đặc biệt
+cropped/001097.jpg	Bún nem hải sản
+cropped/001098.jpg	Nem hải sản 1 cái
+cropped/001099.jpg	Chả thêm
+cropped/001100.jpg	Nước ngọt các loại
+cropped/001101.jpg	Nước suối
+cropped/001102.jpg	Bia bivina lon
+cropped/001103.jpg	Bia tiger lon
+cropped/001104.jpg	30000
+cropped/001105.jpg	45000
+cropped/001106.jpg	50000
+cropped/001107.jpg	20000
+cropped/001108.jpg	10000
+cropped/001109.jpg	15000
+cropped/001110.jpg	10000
+cropped/001111.jpg	12000
+cropped/001112.jpg	20000
+cropped/001113.jpg	THÊM PHÔ MAI
+cropped/001114.jpg	BÒ VIÊN
+cropped/001115.jpg	PHÔ MAI QUE
+cropped/001116.jpg	BẮP XÀO
+cropped/001117.jpg	GHẸ FARCI
+cropped/001118.jpg	THANH CUA
+cropped/001119.jpg	BÁNH BAO NHÍM
+cropped/001120.jpg	CHẢ CÁ CỐM
+cropped/001121.jpg	CÁ VIÊN
+cropped/001122.jpg	CÁ HỒI VIÊN
+cropped/001123.jpg	COMBO XIÊN QUE CHIÊN MẮM MẸT 01
+cropped/001124.jpg	COMBO XIÊN QUE CHIÊN MẮM MẸT 02
+cropped/001125.jpg	COMBO XIÊN QUE CHIÊN MẮM MẸT 03
+cropped/001126.jpg	HÁ CẢO
+cropped/001127.jpg	TRÀ TẮC
+cropped/001128.jpg	CHAO SẢ
+cropped/001129.jpg	MIX TOPPING
+cropped/001130.jpg	MỰC CẮT KHOANH
+cropped/001131.jpg	SÒ ĐIỆP
+cropped/001132.jpg	TRÀ ĐÀO
+cropped/001133.jpg	PESSI LY
+cropped/001134.jpg	PIZZA SIZE L
+cropped/001135.jpg	PIZZA SIZE M
+cropped/001136.jpg	PIZZA SIZE S
+cropped/001137.jpg	CÁ HỒI
+cropped/001138.jpg	XÚC XÍCH ĐỨC
+cropped/001139.jpg	XÚC XÍCH HỒ LÔ
+cropped/001140.jpg	TÔM HÙM VIÊN
+cropped/001141.jpg	TÔM SURIMI
+cropped/001142.jpg	TÔM VIÊN
+cropped/001143.jpg	CHẠO ỐC
+cropped/001144.jpg	ĐẬU HỦ PHÔ MAI
+cropped/001145.jpg	10000
+cropped/001146.jpg	5000
+cropped/001147.jpg	5000
+cropped/001148.jpg	20000
+cropped/001149.jpg	10000
+cropped/001150.jpg	5000
+cropped/001151.jpg	10000
+cropped/001152.jpg	10000
+cropped/001153.jpg	5000
+cropped/001154.jpg	10000
+cropped/001155.jpg	50000
+cropped/001156.jpg	70000
+cropped/001157.jpg	100000
+cropped/001158.jpg	5000
+cropped/001159.jpg	10000
+cropped/001160.jpg	5000
+cropped/001161.jpg	10000
+cropped/001162.jpg	10000
+cropped/001163.jpg	10000
+cropped/001164.jpg	15000
+cropped/001165.jpg	10000
+cropped/001166.jpg	100000
+cropped/001167.jpg	60000
+cropped/001168.jpg	35000
+cropped/001169.jpg	10000
+cropped/001170.jpg	10000
+cropped/001171.jpg	10000
+cropped/001172.jpg	10000
+cropped/001173.jpg	10000
+cropped/001174.jpg	5000
+cropped/001175.jpg	10000
+cropped/001176.jpg	10000
+cropped/001177.jpg	PHỞ ĐÙI + TỤY
+cropped/001178.jpg	ẾCH XÀO SẢ ỚT
+cropped/001179.jpg	ẾCH XÀO LĂN
+cropped/001180.jpg	ẾCH Ủ MUỐI
+cropped/001181.jpg	ẾCH Ủ RƠM
+cropped/001182.jpg	ẾCH XÀO CA RI SỐT THƠM
+cropped/001183.jpg	ẾCH TAY CẦM
+cropped/001184.jpg	CÀ RI ẾCH
+cropped/001185.jpg	ẾCH ĐÚT LÒ PHÔ MAI
+cropped/001186.jpg	ẾCH XÀO CẢI CHUA
+cropped/001187.jpg	ẾCH KHO TỘ
+cropped/001188.jpg	DA ẾCH CHIÊN GIÒN
+cropped/001189.jpg	DA ẾCH CHIÊN NƯỚC MẮM
+cropped/001190.jpg	DA ẾCH RANG MUỐI ỚT
+cropped/001191.jpg	DA ẾCH RANG MUỐI SẢ
+cropped/001192.jpg	BAO TỬ ẾCH XÀO CẢI CHUA
+cropped/001193.jpg	BAO TỬ ẾCH CHIÊN NƯỚC MẮM
+cropped/001194.jpg	BAO TỬ ẾCH XÀO SẢ ỚT
+cropped/001195.jpg	80000
+cropped/001196.jpg	105000
+cropped/001197.jpg	130000
+cropped/001198.jpg	105000
+cropped/001199.jpg	105000
+cropped/001200.jpg	120000
+cropped/001201.jpg	105000
+cropped/001202.jpg	130000
+cropped/001203.jpg	150000
+cropped/001204.jpg	105000
+cropped/001205.jpg	120000
+cropped/001206.jpg	50000
+cropped/001207.jpg	55000
+cropped/001208.jpg	55000
+cropped/001209.jpg	55000
+cropped/001210.jpg	110000
+cropped/001211.jpg	110000
+cropped/001212.jpg	110000
+cropped/001213.jpg	restaurant
+cropped/001214.jpg	name
+cropped/001215.jpg	menu
+cropped/001216.jpg	BAO TỬ ẾCH RANG MUỐI ỚT
+cropped/001217.jpg	NIGIRI TÔM NƯỚNG SỐT
+cropped/001218.jpg	MENTAIKO
+cropped/001219.jpg	NIGIRI CÁ HỒI NƯỚNG SỐT CAY
+cropped/001220.jpg	NIGIRI CÁ HỒI NƯỚNG SỐT
+cropped/001221.jpg	MENTAIKO
+cropped/001222.jpg	NIGIRI CÁ HỒI NƯỚNG SỐT TIÊU
+cropped/001223.jpg	NIGIRI TÔM TEMPURA
+cropped/001224.jpg	NIGIRI TÔM TEMPURA
+cropped/001225.jpg	110000
+cropped/001226.jpg	45000
+cropped/001227.jpg	39000
+cropped/001228.jpg	47000
+cropped/001229.jpg	45000
+cropped/001230.jpg	49000
+cropped/001231.jpg	49000
+cropped/001232.jpg	Menu
+cropped/001233.jpg	Mực
+cropped/001234.jpg	Mực hấp hành cân
+cropped/001235.jpg	Mực nướng sa tế
+cropped/001236.jpg	Mực chiên giòn
+cropped/001237.jpg	Mực khô nướng
+cropped/001238.jpg	258k
+cropped/001239.jpg	258k
+cropped/001240.jpg	258k
+cropped/001241.jpg	258k
+cropped/001242.jpg	Khoai tây chiên
+cropped/001243.jpg	và ngô chiên
+cropped/001244.jpg	Ngô Mỹ chiên bơ
+cropped/001245.jpg	Khoai tây chiên
+cropped/001246.jpg	48k
+cropped/001247.jpg	52k
+cropped/001248.jpg	Các món rau xào,
+cropped/001249.jpg	luộc
+cropped/001250.jpg	Cải thảo xào
+cropped/001251.jpg	Rau muống xào tỏi, luộc
+cropped/001252.jpg	Mồng tơi xào, luộc
+cropped/001253.jpg	56k
+cropped/001254.jpg	56k
+cropped/001255.jpg	56k
+cropped/001256.jpg	Lẩu
+cropped/001257.jpg	Lẩu cá với măng chua cay
+cropped/001258.jpg	Lẩu hải sản kiểu thái
+cropped/001259.jpg	Lẩu hải sản Hương Biển
+cropped/001260.jpg	Lẩu nấm hải sản
+cropped/001261.jpg	588k
+cropped/001262.jpg	650k
+cropped/001263.jpg	688k
+cropped/001264.jpg	688k
+cropped/001265.jpg	ICE CREAM
+cropped/001266.jpg	Kem Vani
+cropped/001267.jpg	Kem Vani Trân Châu Đen
+cropped/001268.jpg	Kem Vani Trân Châu Trắng
+cropped/001269.jpg	Kem Socola
+cropped/001270.jpg	Kem Sốt Dâu
+cropped/001271.jpg	Kem Sốt Việt Quất
+cropped/001272.jpg	Kem Vị Cafe
+cropped/001273.jpg	Kem Bạc Hà
+cropped/001274.jpg	Kem Sốt Dưa Lưới
+cropped/001275.jpg	Kem Sốt Kiwi
+cropped/001276.jpg	Kem Sốt Ổi Hồng
+cropped/001277.jpg	Kem Sốt Đào
+cropped/001278.jpg	Kem Sốt Xoài
+cropped/001279.jpg	Kem Matcha
+cropped/001280.jpg	Kem Matcha Socola
+cropped/001281.jpg	6.000đ
+cropped/001282.jpg	10.000đ
+cropped/001283.jpg	10.000đ
+cropped/001284.jpg	10.000đ
+cropped/001285.jpg	10.000đ
+cropped/001286.jpg	10.000đ
+cropped/001287.jpg	10.000đ
+cropped/001288.jpg	10.000đ
+cropped/001289.jpg	10.000đ
+cropped/001290.jpg	10.000đ
+cropped/001291.jpg	10.000đ
+cropped/001292.jpg	10.000đ
+cropped/001293.jpg	10.000đ
+cropped/001294.jpg	10.000đ
+cropped/001295.jpg	12.000đ
+cropped/001296.jpg	GÁNH NƯỚC
+cropped/001297.jpg	HÀNG RONG
+cropped/001298.jpg	Cậu Ba
+cropped/001299.jpg	1. Nước Sấu
+cropped/001300.jpg	2. Nước Mơ
+cropped/001301.jpg	3. Nước Dâu Tằm
+cropped/001302.jpg	4. Trà Tắc
+cropped/001303.jpg	5. Trà Chanh Xả Tắc
+cropped/001304.jpg	6. Trà Gừng
+cropped/001305.jpg	7. Chè Khúc Bạch
+cropped/001306.jpg	8. Chè Dưỡng Nhan
+cropped/001307.jpg	9. Nước Suôi
+cropped/001308.jpg	10. Nước ngọt
+cropped/001309.jpg	15K
+cropped/001310.jpg	15K
+cropped/001311.jpg	15K
+cropped/001312.jpg	10K
+cropped/001313.jpg	15K
+cropped/001314.jpg	15K
+cropped/001315.jpg	20K
+cropped/001316.jpg	15K
+cropped/001317.jpg	7K
+cropped/001318.jpg	12K
+cropped/001319.jpg	ỐC VÂN
+cropped/001320.jpg	ỐC BƯƠU UM
+cropped/001321.jpg	ỐC MÓNG TAY
+cropped/001322.jpg	ỐC LEN
+cropped/001323.jpg	ỐC CANA
+cropped/001324.jpg	ỐC HƯƠNG
+cropped/001325.jpg	ỐC MỠ
+cropped/001326.jpg	ỐC DỤ
+cropped/001327.jpg	SÒ LÔNG
+cropped/001328.jpg	XÌA LÁNG
+cropped/001329.jpg	XÌA MÍA
+cropped/001330.jpg	TÔM CÀNG HẤP
+cropped/001331.jpg	10K
+cropped/001332.jpg	15K
+cropped/001333.jpg	15K
+cropped/001334.jpg	15K
+cropped/001335.jpg	15K
+cropped/001336.jpg	15K
+cropped/001337.jpg	15K
+cropped/001338.jpg	15K
+cropped/001339.jpg	15K
+cropped/001340.jpg	15K
+cropped/001341.jpg	15K
+cropped/001342.jpg	ĐỒ NƯỚNG
+cropped/001343.jpg	HÀU NƯỚNG MỠ HÀNH
+cropped/001344.jpg	SÒ ĐIỆP NƯỚNG MỠ HÀNH
+cropped/001345.jpg	SÒ LÔNG NƯỚNG
+cropped/001346.jpg	SÒ QUÉO NƯỚNG
+cropped/001347.jpg	ỐC BƯU ĐEN NƯỚNG TIÊU
+cropped/001348.jpg	ỐC TỎI NƯỚNG
+cropped/001349.jpg	TÔM NƯỚNG SATE
+cropped/001350.jpg	ĐỒ ĂN VẶT
+cropped/001351.jpg	CHẢ NƯỚNG, TRỨNG TAN, TRỨNG LỘN
+cropped/001352.jpg	NEM NƯỚNG, CHẢ LỤA
+cropped/001353.jpg	KEM PLAN, CƠM RƯỢU
+cropped/001354.jpg	Cảm ơn quý khách
+cropped/001355.jpg	Topping
+cropped/001356.jpg	Trân châu đen
+cropped/001357.jpg	Trân châu trắng
+cropped/001358.jpg	Sương sáo
+cropped/001359.jpg	Thạch pho mai
+cropped/001360.jpg	Bánh plan
+cropped/001361.jpg	Pudding trứng
+cropped/001362.jpg	Pudding socola
+cropped/001363.jpg	Pudding dưa lưới
+cropped/001364.jpg	Macchiato váng sữa
+cropped/001365.jpg	Kem trứng cháy
+cropped/001366.jpg	Thạch dừa
+cropped/001367.jpg	3.000
+cropped/001368.jpg	5.000
+cropped/001369.jpg	3.000
+cropped/001370.jpg	8.000
+cropped/001371.jpg	5.000
+cropped/001372.jpg	5.000
+cropped/001373.jpg	5.000
+cropped/001374.jpg	5.000
+cropped/001375.jpg	5.000
+cropped/001376.jpg	8.000
+cropped/001377.jpg	5.000
+cropped/001378.jpg	Thực đơn cơm
+cropped/001379.jpg	Cá Bớp kho tộ
+cropped/001380.jpg	Cá chiên sốt cà
+cropped/001381.jpg	Ba chỉ cháy cạnh
+cropped/001382.jpg	Tôm rim thịt
+cropped/001383.jpg	Bò xào hành cần
+cropped/001384.jpg	Mực xào thơm cà
+cropped/001385.jpg	Trứng chiên
+cropped/001386.jpg	120.000Đ
+cropped/001387.jpg	120.000Đ
+cropped/001388.jpg	120.000Đ
+cropped/001389.jpg	120.000Đ
+cropped/001390.jpg	120.000Đ
+cropped/001391.jpg	170.000Đ
+cropped/001392.jpg	40.000Đ
+cropped/001393.jpg	Món canh
+cropped/001394.jpg	Canh chua cá Bớp
+cropped/001395.jpg	Canh chua nghêu
+cropped/001396.jpg	Canh hàu cải
+cropped/001397.jpg	Canh tôm cải
+cropped/001398.jpg	Canh cải thịt băm
+cropped/001399.jpg	Canh thịt bò lá giang
+cropped/001400.jpg	Canh rong biển
+cropped/001401.jpg	120.000Đ
+cropped/001402.jpg	120.000Đ
+cropped/001403.jpg	120.000Đ
+cropped/001404.jpg	120.000Đ
+cropped/001405.jpg	120.000Đ
+cropped/001406.jpg	120.000Đ
+cropped/001407.jpg	120.000Đ
+cropped/001408.jpg	10 | Hoang Thao Restaurant
+cropped/001409.jpg	Cà Phê Việt
+cropped/001410.jpg	CoFFee Italy
+cropped/001411.jpg	Cà Phê Đen đá/nóng
+cropped/001412.jpg	Cà Phê Sữa đá/nóng
+cropped/001413.jpg	Cà Phê Bạc Sỉu đá/nóng
+cropped/001414.jpg	CaCao đá/nóng
+cropped/001415.jpg	Espresso
+cropped/001416.jpg	Americano
+cropped/001417.jpg	Cappuchino
+cropped/001418.jpg	Latte
+cropped/001419.jpg	Caramel Macchiato
+cropped/001420.jpg	Mocha
+cropped/001421.jpg	Matcha
+cropped/001422.jpg	18.000
+cropped/001423.jpg	20.000
+cropped/001424.jpg	25.000
+cropped/001425.jpg	25.000
+cropped/001426.jpg	25.000
+cropped/001427.jpg	30.000
+cropped/001428.jpg	30.000
+cropped/001429.jpg	35.000
+cropped/001430.jpg	35.000
+cropped/001431.jpg	35.000
+cropped/001432.jpg	35.000
+cropped/001433.jpg	THỰC ĐƠN
+cropped/001434.jpg	MENU
+cropped/001435.jpg	ĐẶC SẢN GÀ TRE
+cropped/001436.jpg	Gà tre hấp hành
+cropped/001437.jpg	Gà xé rau răm
+cropped/001438.jpg	Gà chặt lá chanh
+cropped/001439.jpg	Gà nấu cháo
+cropped/001440.jpg	Lẩu gà tre
+cropped/001441.jpg	Gà tre tiềm ớt hiểm
+cropped/001442.jpg	Gà tre hầm sả
+cropped/001443.jpg	Gà tre khìa nước dừa
+cropped/001444.jpg	Gà tre nấu nấm
+cropped/001445.jpg	Gà tre nướng sa tế
+cropped/001446.jpg	Gà tre nướng muối ớt
+cropped/001447.jpg	Gà tre hấp bia
+cropped/001448.jpg	Gà tre hấp rượu
+cropped/001449.jpg	Gà tre nướng mọi
+cropped/001450.jpg	Gà tre hấp cải bẹ xanh
+cropped/001451.jpg	Gà tre hấp cải thìa
+cropped/001452.jpg	Gà tre xào sả ớt
+cropped/001453.jpg	Gà tre chiên nước mắm
+cropped/001454.jpg	Gà tre nổ muối
+cropped/001455.jpg	Gà tre hấp tỏi
+cropped/001456.jpg	190k
+cropped/001457.jpg	190k
+cropped/001458.jpg	190k
+cropped/001459.jpg	190k
+cropped/001460.jpg	190k
+cropped/001461.jpg	190k
+cropped/001462.jpg	190k
+cropped/001463.jpg	190k
+cropped/001464.jpg	190k
+cropped/001465.jpg	190k
+cropped/001466.jpg	190k
+cropped/001467.jpg	190k
+cropped/001468.jpg	190k
+cropped/001469.jpg	190k
+cropped/001470.jpg	190k
+cropped/001471.jpg	190k
+cropped/001472.jpg	190k
+cropped/001473.jpg	190k
+cropped/001474.jpg	190k
+cropped/001475.jpg	190k
+cropped/001476.jpg	XIÊN QUE
+cropped/001477.jpg	TỰ CHỌN
+cropped/001478.jpg	Wifi: Kem Xôi
+cropped/001479.jpg	Pass: 999999999 (9 số 9)
+cropped/001480.jpg	1. Cá Viên
+cropped/001481.jpg	2. Bò Viên
+cropped/001482.jpg	3. Tôm Viên
+cropped/001483.jpg	4. Đậu Bắp
+cropped/001484.jpg	5. Hải Sản Giòn
+cropped/001485.jpg	6. Chả Giò
+cropped/001486.jpg	7. Đậu Hũ
+cropped/001487.jpg	8. Trứng Cút
+cropped/001488.jpg	9. Chả Cá Tẩm Cốm (2v)
+cropped/001489.jpg	10. Hoành Thánh
+cropped/001490.jpg	11. Thanh Cua
+cropped/001491.jpg	12. Cua Hoàng Đế
+cropped/001492.jpg	13. Chạo Ốc
+cropped/001493.jpg	14. Tôm Surumi
+cropped/001494.jpg	15. Cá Viên Trứng Cút
+cropped/001495.jpg	16. Chả Cá Cuộn Đậu
+cropped/001496.jpg	17. Phô Mai Que
+cropped/001497.jpg	18. Sữa Tươi Chiên
+cropped/001498.jpg	19. Hải Sản Xù (3v)
+cropped/001499.jpg	20. Xúc Xích Hồ Lô
+cropped/001500.jpg	21. Xúc Xích Phô Mai
+cropped/001501.jpg	22. Xúc Xích Đức
+cropped/001502.jpg	23. Mực Cuộn
+cropped/001503.jpg	24. Sò Điệp
+cropped/001504.jpg	25. Bánh Bao Trứng Cá
+cropped/001505.jpg	26. Há Cảo
+cropped/001506.jpg	27. Hot Dog
+cropped/001507.jpg	28. Bánh Gạo Lắc
+cropped/001508.jpg	29. Khoai Tây Lắc
+cropped/001509.jpg	30. Khoai Lang Lắc
+cropped/001510.jpg	31. Sake Lắc
+cropped/001511.jpg	32. Chuối Lắc
+cropped/001512.jpg	33. Khoai Môn Lắc
+cropped/001513.jpg	34. Combo Gà + Khoai Tây
+cropped/001514.jpg	35. Combo Xiên Que
+cropped/001515.jpg	36. Combo Xiên Que
+cropped/001516.jpg	37. Combo Xiên Que
+cropped/001517.jpg	5k
+cropped/001518.jpg	5k
+cropped/001519.jpg	5k
+cropped/001520.jpg	5k
+cropped/001521.jpg	5k
+cropped/001522.jpg	6k
+cropped/001523.jpg	6k
+cropped/001524.jpg	6k
+cropped/001525.jpg	6k
+cropped/001526.jpg	6k
+cropped/001527.jpg	6k
+cropped/001528.jpg	10k
+cropped/001529.jpg	10k
+cropped/001530.jpg	10k
+cropped/001531.jpg	10k
+cropped/001532.jpg	10k
+cropped/001533.jpg	10k
+cropped/001534.jpg	10k
+cropped/001535.jpg	10k
+cropped/001536.jpg	10k
+cropped/001537.jpg	10k
+cropped/001538.jpg	10k
+cropped/001539.jpg	10k
+cropped/001540.jpg	10k
+cropped/001541.jpg	10k
+cropped/001542.jpg	10k
+cropped/001543.jpg	15k
+cropped/001544.jpg	20k
+cropped/001545.jpg	20k
+cropped/001546.jpg	20k
+cropped/001547.jpg	20k
+cropped/001548.jpg	20k
+cropped/001549.jpg	20k
+cropped/001550.jpg	25k
+cropped/001551.jpg	50k
+cropped/001552.jpg	80k
+cropped/001553.jpg	100k
+cropped/001554.jpg	ĐƯỢC TUYỂN CHỌN
+cropped/001555.jpg	CÀ PHÊ
+cropped/001556.jpg	THÀNH LẬP NĂM 2000
+cropped/001557.jpg	CÀ PHÊ NÓNG
+cropped/001558.jpg	Bánh nhung đỏ
+cropped/001559.jpg	Sô-cô-la
+cropped/001560.jpg	Dâu
+cropped/001561.jpg	Vani nguyên chất
+cropped/001562.jpg	Bạc hà tươi
+cropped/001563.jpg	Bánh vụn
+cropped/001564.jpg	66.000đ
+cropped/001565.jpg	82.000đ
+cropped/001566.jpg	80.000đ
+cropped/001567.jpg	88.000đ
+cropped/001568.jpg	99.000đ
+cropped/001569.jpg	77.000đ
+cropped/001570.jpg	BÁNH NGỌT
+cropped/001571.jpg	Bánh ngọt nướng
+cropped/001572.jpg	Bánh hồ đào
+cropped/001573.jpg	Bánh phô mai
+cropped/001574.jpg	Bánh bông lan dâu
+cropped/001575.jpg	Cà phê Java
+cropped/001576.jpg	Bánh mì cuộn hương quế
+cropped/001577.jpg	99.000đ
+cropped/001578.jpg	110.000đ
+cropped/001579.jpg	44.000đ
+cropped/001580.jpg	77.000đ
+cropped/001581.jpg	88.000đ
+cropped/001582.jpg	60.500đ
+cropped/001583.jpg	543 ĐƯỜNG LÊ LỢI, PHƯỜNG BẾN NGHÉ
+cropped/001584.jpg	HẦM RƯỢU
+cropped/001585.jpg	THẰNG BỜM
+cropped/001586.jpg	MÓN CƠM-MÌ-BÚN-MIẾN
+cropped/001587.jpg	Cơm chiên lá é Miền trung
+cropped/001588.jpg	Cơm chiên lá é hải sản
+cropped/001589.jpg	Cơm chiên cá mặn gà xé
+cropped/001590.jpg	Cơm chiên Thằng Bờm
+cropped/001591.jpg	Cơm chiên hải sản
+cropped/001592.jpg	Cơm chiên tỏi + trứng
+cropped/001593.jpg	Cơm chiên Thái Lan
+cropped/001594.jpg	Mì xào hải sản
+cropped/001595.jpg	Mì trộn sa tế Jambon
+cropped/001596.jpg	Mì xào bò
+cropped/001597.jpg	Bún xào Singapore
+cropped/001598.jpg	Bún xào hải sản
+cropped/001599.jpg	Miến xào lươn
+cropped/001600.jpg	Miến xào cua tay cầm
+cropped/001601.jpg	89,000
+cropped/001602.jpg	109,000
+cropped/001603.jpg	109,000
+cropped/001604.jpg	119,000
+cropped/001605.jpg	109,000
+cropped/001606.jpg	89,000
+cropped/001607.jpg	119,000
+cropped/001608.jpg	119,000
+cropped/001609.jpg	129,000
+cropped/001610.jpg	119,000
+cropped/001611.jpg	129,000
+cropped/001612.jpg	119,000
+cropped/001613.jpg	149,000
+cropped/001614.jpg	Thời giá
+cropped/001615.jpg	MÓN SOUP-CHÁO
+cropped/001616.jpg	Soup hải sản
+cropped/001617.jpg	Soup bắp cua
+cropped/001618.jpg	Soup 4 vị
+cropped/001619.jpg	Cháo hào
+cropped/001620.jpg	Cháo bồ câu
+cropped/001621.jpg	Cháo hải sản
+cropped/001622.jpg	Cháo bò
+cropped/001623.jpg	35,000
+cropped/001624.jpg	35,000
+cropped/001625.jpg	40,000
+cropped/001626.jpg	129,000
+cropped/001627.jpg	169,000
+cropped/001628.jpg	139,000
+cropped/001629.jpg	139,000
+cropped/001630.jpg	Hân hạnh phục vụ quý khách - Chúc quý khách ngon miệng !
+cropped/001631.jpg	85 Nguyễn Văn Quá, P. Tân Hưng Thuận, Q. 12, ĐT: 0902 905 919
+cropped/001632.jpg	BIA VÀ NƯỚC GIẢI KHÁT
+cropped/001633.jpg	SÀI GÒN CHILL CHAI
+cropped/001634.jpg	SÀI GÒN CHILL LON
+cropped/001635.jpg	SÀI GÒN SPECIAL CHAI
+cropped/001636.jpg	SÀI GÒN SPECIAL LON
+cropped/001637.jpg	SÀI GÒN LAGER CHAI
+cropped/001638.jpg	SÀI GÒN LAGER LON
+cropped/001639.jpg	SÀI GÒN ĐỎ CHAI
+cropped/001640.jpg	SÀI GÒN ĐỎ LON
+cropped/001641.jpg	SÀI GÒN 333 LON
+cropped/001642.jpg	LẠC VIỆT LON
+cropped/001643.jpg	LẠC VIỆT CHAI
+cropped/001644.jpg	HEINEKEN CHAI
+cropped/001645.jpg	HEINEKEN LON
+cropped/001646.jpg	TIGER NÂU CHAI
+cropped/001647.jpg	TIGER NÂU LON
+cropped/001648.jpg	LARUE
+cropped/001649.jpg	Rượu
+cropped/001650.jpg	Nước suối
+cropped/001651.jpg	Nước ngọt
+cropped/001652.jpg	19.000
+cropped/001653.jpg	20.000
+cropped/001654.jpg	18.000
+cropped/001655.jpg	19.000
+cropped/001656.jpg	12.000
+cropped/001657.jpg	16.000
+cropped/001658.jpg	13.000
+cropped/001659.jpg	16.000
+cropped/001660.jpg	16.000
+cropped/001661.jpg	16.000
+cropped/001662.jpg	13.000
+cropped/001663.jpg	22.000
+cropped/001664.jpg	23.000
+cropped/001665.jpg	18.000
+cropped/001666.jpg	19.000
+cropped/001667.jpg	13.000
+cropped/001668.jpg	12.000
+cropped/001669.jpg	18.000
+cropped/001670.jpg	Hân hạnh phục vụ Quý khách
+cropped/001671.jpg	THỰC ĐƠN
+cropped/001672.jpg	MENU
+cropped/001673.jpg	CÁC MÓN KHAI VỊ
+cropped/001674.jpg	Rau muống xào tỏi
+cropped/001675.jpg	Đậu hũ chiên giòn
+cropped/001676.jpg	Đậu hũ chiên sả ớt
+cropped/001677.jpg	Rau luộc kho quẹt
+cropped/001678.jpg	Cải thìa xào tỏi
+cropped/001679.jpg	Cải thìa xào tôm
+cropped/001680.jpg	25k
+cropped/001681.jpg	25k
+cropped/001682.jpg	30k
+cropped/001683.jpg	60k
+cropped/001684.jpg	30k
+cropped/001685.jpg	50k
+cropped/001686.jpg	CÁC MÓN BÒ
+cropped/001687.jpg	Gân bò hầm sả
+cropped/001688.jpg	Gân bò hấp gừng
+cropped/001689.jpg	Gân bò xào sa tế
+cropped/001690.jpg	Gân bò xào sả ớt
+cropped/001691.jpg	Bò xào rau muống
+cropped/001692.jpg	Bò xào cần
+cropped/001693.jpg	Bò xào củ hành
+cropped/001694.jpg	130k
+cropped/001695.jpg	80k
+cropped/001696.jpg	80k
+cropped/001697.jpg	80k
+cropped/001698.jpg	50k
+cropped/001699.jpg	50k
+cropped/001700.jpg	50k
+cropped/001701.jpg	CÁC MÓN MÌ XÀO
+cropped/001702.jpg	Mì xào hải sản
+cropped/001703.jpg	Mì xào thập cẩm
+cropped/001704.jpg	Mì xào bò
+cropped/001705.jpg	70k
+cropped/001706.jpg	80k
+cropped/001707.jpg	70k
+cropped/001708.jpg	MÓN RAU CỦ QUẢ
+cropped/001709.jpg	Cải Xào Nấm Đông Cô
+cropped/001710.jpg	Đậu Ve Xào Nấm
+cropped/001711.jpg	Rau Nấm Xào Thập Cẩm
+cropped/001712.jpg	Măng Xào Giá
+cropped/001713.jpg	Salad Xốt Cà
+cropped/001714.jpg	Salad Hoan Hỉ
+cropped/001715.jpg	Rau Dền Luộc
+cropped/001716.jpg	Rau Muống Xào Chao
+cropped/001717.jpg	Rau Muống Xào Tỏi
+cropped/001718.jpg	Rau Củ Luộc Thập Cẩm
+cropped/001719.jpg	Cà Tìm Xốt Nấm
+cropped/001720.jpg	Khổ Qua Xào Nấm
+cropped/001721.jpg	Bông Thiên Lý Xào Nấm Bào Ngư
+cropped/001722.jpg	49.000đ
+cropped/001723.jpg	49.000đ
+cropped/001724.jpg	49.000đ
+cropped/001725.jpg	49.000đ
+cropped/001726.jpg	49.000đ
+cropped/001727.jpg	49.000đ
+cropped/001728.jpg	45.000đ
+cropped/001729.jpg	49.000đ
+cropped/001730.jpg	49.000đ
+cropped/001731.jpg	55.000đ
+cropped/001732.jpg	49.000đ
+cropped/001733.jpg	45.000đ
+cropped/001734.jpg	55.000đ
+cropped/001735.jpg	MÓN CANH
+cropped/001736.jpg	Canh Rau Cúc (Tần Ô)
+cropped/001737.jpg	Canh Rong Biển Nhật Bản
+cropped/001738.jpg	Canh Tương Miso Nhật Bản
+cropped/001739.jpg	Canh Rau Dền
+cropped/001740.jpg	Canh Chua Lá Giang
+cropped/001741.jpg	Canh Khổ Qua
+cropped/001742.jpg	Canh Rong Biển Việt Nam
+cropped/001743.jpg	Canh Rau Ngót
+cropped/001744.jpg	Canh Nấm Cải Xanh
+cropped/001745.jpg	Canh Củ Quả
+cropped/001746.jpg	45.000đ
+cropped/001747.jpg	49.000đ
+cropped/001748.jpg	49.000đ
+cropped/001749.jpg	45.000đ
+cropped/001750.jpg	49.000đ
+cropped/001751.jpg	45.000đ
+cropped/001752.jpg	45.000đ
+cropped/001753.jpg	45.000đ
+cropped/001754.jpg	45.000đ
+cropped/001755.jpg	49.000đ
+cropped/001756.jpg	Trà sữa ăn vặt
+cropped/001757.jpg	Bé Bi
+cropped/001758.jpg	Nắng chiều
+cropped/001759.jpg	Café đá
+cropped/001760.jpg	Café sữa đá
+cropped/001761.jpg	Trà đào
+cropped/001762.jpg	Trà đào cam xả
+cropped/001763.jpg	Trà đào cam quất
+cropped/001764.jpg	Trà chanh
+cropped/001765.jpg	Trà tắc
+cropped/001766.jpg	Trà vãi
+cropped/001767.jpg	Trà dâu
+cropped/001768.jpg	Milo đá dằm
+cropped/001769.jpg	Nước ngọt
+cropped/001770.jpg	Samurai đỏ
+cropped/001771.jpg	Samurai vàng
+cropped/001772.jpg	Nước suối
+cropped/001773.jpg	Trà xanh
+cropped/001774.jpg	Ăn vặt
+cropped/001775.jpg	Bánh tráng trộn khô gà
+cropped/001776.jpg	Bánh tráng trộn khô mực
+cropped/001777.jpg	Bánh tráng trộn khô bò
+cropped/001778.jpg	Bánh tráng trộn lá dứa
+cropped/001779.jpg	Bánh tráng cuộn
+cropped/001780.jpg	Bánh trứng cút nướng
+cropped/001781.jpg	Trà sữa truyền thống
+cropped/001782.jpg	Trà sữa matcha
+cropped/001783.jpg	Trà sữa chocolate
+cropped/001784.jpg	Trà sữa trân châu đường đen
+cropped/001785.jpg	Trà sữa khoai môn
+cropped/001786.jpg	Trà sữa sương sáo thảo mộc
+cropped/001787.jpg	15k
+cropped/001788.jpg	15k
+cropped/001789.jpg	15k
+cropped/001790.jpg	15k
+cropped/001791.jpg	15k
+cropped/001792.jpg	15k
+cropped/001793.jpg	15k
+cropped/001794.jpg	20k
+cropped/001795.jpg	20k
+cropped/001796.jpg	20k
+cropped/001797.jpg	20k
+cropped/001798.jpg	20k
+cropped/001799.jpg	20k
+cropped/001800.jpg	20k
+cropped/001801.jpg	20k
+cropped/001802.jpg	20k
+cropped/001803.jpg	20k
+cropped/001804.jpg	20k
+cropped/001805.jpg	20k
+cropped/001806.jpg	NHÀ HÀNG
+cropped/001807.jpg	ALASKA
+cropped/001808.jpg	TÔM SÚ
+cropped/001809.jpg	(THEO THỜI GIÁ)
+cropped/001810.jpg	TÔM SÚ SỐNG NƯỚC CHẤM THÁI
+cropped/001811.jpg	TÔM HOÀNG KIM
+cropped/001812.jpg	TÔM NƯỚNG MỌI/NƯỚNG MUỐI ỚT
+cropped/001813.jpg	TÔM RANG MUỐI TIÊU
+cropped/001814.jpg	TÔM SÚ HẤP NƯỚC DỪA/BIA
+cropped/001815.jpg	TÔM CHẤY TỎI
+cropped/001816.jpg	TÔM SỐT ME
+cropped/001817.jpg	TÔM HẤP TRÁI DỪA
+cropped/001818.jpg	TÔM TRỨNG MUỐI
+cropped/001819.jpg	LẨU THÁI CHUA CAY
+cropped/001820.jpg	TÔM CÀNG XANH
+cropped/001821.jpg	(THEO THỜI GIÁ)
+cropped/001822.jpg	TÔM SỐNG NƯỚC CHẤM THÁI
+cropped/001823.jpg	TÔM HOÀNG KIM
+cropped/001824.jpg	TÔM NƯỚNG MỌI/NƯỚNG MUỐI ỚT
+cropped/001825.jpg	TÔM RANG MUỐI TIÊU
+cropped/001826.jpg	TÔM HẤP NƯỚC DỪA/BIA
+cropped/001827.jpg	TÔM CHẤY TỎI
+cropped/001828.jpg	TÔM SỐT ME
+cropped/001829.jpg	TÔM HẤP TRÁI DỪA
+cropped/001830.jpg	TÔM TRỨNG MUỐI
+cropped/001831.jpg	LẨU THÁI CHUA CAY
+cropped/001832.jpg	Quán Ăn Gia Đình Hải Sản
+cropped/001833.jpg	NGHĨA 1
+cropped/001834.jpg	Địa chỉ:Đường Võ Thị Sáu, Kp.Hải Sơn, Long Hải, LĐ, BRVT
+cropped/001835.jpg	MENU
+cropped/001836.jpg	Rau Muống Xào Tỏi
+cropped/001837.jpg	Rau Thập Cẩm Kho Quẹt
+cropped/001838.jpg	Khoai Tây Chiên
+cropped/001839.jpg	Bông Cải Xào Tỏi
+cropped/001840.jpg	Bông Cải Xào Hải Sản
+cropped/001841.jpg	Bông Thiên Lý Xào Bò
+cropped/001842.jpg	Bông Thiên Lý Xào Tỏi
+cropped/001843.jpg	Đọt Bí Xào Bò
+cropped/001844.jpg	Đọt Bí Xào Tỏi
+cropped/001845.jpg	Đậu Hủ Chiên Giòn
+cropped/001846.jpg	Đậu Hủ Chiên Sả Ớt
+cropped/001847.jpg	Cơm Chiên Tỏi
+cropped/001848.jpg	Cơm Chiên Dương Châu
+cropped/001849.jpg	Cơm Chiên Cá Mặn
+cropped/001850.jpg	Cơm Chiên Hải Sản
+cropped/001851.jpg	Cơm Chiên Dưa Bò
+cropped/001852.jpg	Mì Xào Hải Sản
+cropped/001853.jpg	Mì Xào Bò
+cropped/001854.jpg	Mì Xào Giòn Hải Sản
+cropped/001855.jpg	Bò Lúc Lắc Khoai Tây
+cropped/001856.jpg	Bò Xào Hành Cần
+cropped/001857.jpg	Bò Bít Tết
+cropped/001858.jpg	Bò Rang Muối
+cropped/001859.jpg	Bò Tái Chanh
+cropped/001860.jpg	Tôm Hấp
+cropped/001861.jpg	Tôm Ram Muối
+cropped/001862.jpg	Tôm Ram Me
+cropped/001863.jpg	Tôm Chiên Bột
+cropped/001864.jpg	Mực Xào Chua Ngọt
+cropped/001865.jpg	Mực Hấp Gừng
+cropped/001866.jpg	Mực Cháy Tỏi
+cropped/001867.jpg	Mực Rang Muối Tiêu
+cropped/001868.jpg	Mực Tuộc Xào Sa Tế
+cropped/001869.jpg	Mực Tuộc Nhúng Giấm
+cropped/001870.jpg	Cánh Gà Chiên Nước Mắm
+cropped/001871.jpg	Cánh Gà Chiên Bơ
+cropped/001872.jpg	Chân Gà Chiên Nước Mắm
+cropped/001873.jpg	Chân Gà Hấp
+cropped/001874.jpg	Giò Heo Rang Muối
+cropped/001875.jpg	Giò Heo Chiên Nước Mắm
+cropped/001876.jpg	Dồi Trường Hấp
+cropped/001877.jpg	Dồi Trường Xào Cải Chua
+cropped/001878.jpg	Dồi Trường Chiên Giòn
+cropped/001879.jpg	Bao Tử Xào Thập Cẩm
+cropped/001880.jpg	Sườn Xào Chua Ngọt
+cropped/001881.jpg	Sườn Ram Mặn
+cropped/001882.jpg	Lươn Chiên Giòn
+cropped/001883.jpg	Lươn Xào Lăn
+cropped/001884.jpg	Lươn Xào Sả Ớt
+cropped/001885.jpg	Ếch Núp Rơm
+cropped/001886.jpg	Ếch Rang Muối
+cropped/001887.jpg	Ếch Xào Lăn
+cropped/001888.jpg	Ếch Chiên Bơ
+cropped/001889.jpg	Ếch Chiên Nước Mắm
+cropped/001890.jpg	Cá Trứng Chiên Giòn
+cropped/001891.jpg	Cá Ngát Kho
+cropped/001892.jpg	Cá Bớp Kho
+cropped/001893.jpg	Cá Dứa Kho
+cropped/001894.jpg	Canh Chua Cá Ngát
+cropped/001895.jpg	Canh Chua Cá Bớp
+cropped/001896.jpg	Canh Chua Cá Dứa
+cropped/001897.jpg	Lẩu Cá Ngát
+cropped/001898.jpg	Lẩu Cá Bớp
+cropped/001899.jpg	Lẩu Cá Đuối
+cropped/001900.jpg	Lẩu Hải Sản
+cropped/001901.jpg	Lẩu Thái
+cropped/001902.jpg	Lẩu Lươn
+cropped/001903.jpg	Lẩu Ếch
+cropped/001904.jpg	Lẩu Cá Chẽm
+cropped/001905.jpg	Lẩu Cá Dứa
+cropped/001906.jpg	Lẩu Cháo Cá Dứa
+cropped/001907.jpg	Cháo Cá Dứa (Tô)
+cropped/001908.jpg	Cháo Hào (Tô)
+cropped/001909.jpg	Lẩu Cháo Hào
+cropped/001910.jpg	40.000
+cropped/001911.jpg	50.000
+cropped/001912.jpg	40.000
+cropped/001913.jpg	50.000
+cropped/001914.jpg	100.000
+cropped/001915.jpg	100.000
+cropped/001916.jpg	60.000
+cropped/001917.jpg	100.000
+cropped/001918.jpg	50.000
+cropped/001919.jpg	40.000
+cropped/001920.jpg	40.000
+cropped/001921.jpg	70.000
+cropped/001922.jpg	80.000
+cropped/001923.jpg	80.000
+cropped/001924.jpg	80.000
+cropped/001925.jpg	80.000
+cropped/001926.jpg	100.000
+cropped/001927.jpg	100.000
+cropped/001928.jpg	100.000
+cropped/001929.jpg	100.000
+cropped/001930.jpg	100.000
+cropped/001931.jpg	100.000
+cropped/001932.jpg	100.000
+cropped/001933.jpg	100.000
+cropped/001934.jpg	90.000
+cropped/001935.jpg	90.000
+cropped/001936.jpg	90.000
+cropped/001937.jpg	90.000
+cropped/001938.jpg	90.000
+cropped/001939.jpg	90.000
+cropped/001940.jpg	90.000
+cropped/001941.jpg	90.000
+cropped/001942.jpg	90.000
+cropped/001943.jpg	170.000
+cropped/001944.jpg	80.000
+cropped/001945.jpg	80.000
+cropped/001946.jpg	80.000
+cropped/001947.jpg	80.000
+cropped/001948.jpg	130.000
+cropped/001949.jpg	130.000
+cropped/001950.jpg	90.000
+cropped/001951.jpg	90.000
+cropped/001952.jpg	90.000
+cropped/001953.jpg	90.000
+cropped/001954.jpg	90.000
+cropped/001955.jpg	90.000
+cropped/001956.jpg	100.000
+cropped/001957.jpg	100.000
+cropped/001958.jpg	100.000
+cropped/001959.jpg	90.000
+cropped/001960.jpg	90.000
+cropped/001961.jpg	100.000
+cropped/001962.jpg	90.000
+cropped/001963.jpg	90.000
+cropped/001964.jpg	70.000
+cropped/001965.jpg	110.000
+cropped/001966.jpg	110.000
+cropped/001967.jpg	110.000
+cropped/001968.jpg	120.000
+cropped/001969.jpg	120.000
+cropped/001970.jpg	120.000
+cropped/001971.jpg	250.000
+cropped/001972.jpg	250.000
+cropped/001973.jpg	250.000
+cropped/001974.jpg	250.000
+cropped/001975.jpg	250.000
+cropped/001976.jpg	250.000
+cropped/001977.jpg	220.000
+cropped/001978.jpg	260.000
+cropped/001979.jpg	270.000
+cropped/001980.jpg	270.000
+cropped/001981.jpg	120.000
+cropped/001982.jpg	110.000
+cropped/001983.jpg	220.000
+cropped/001984.jpg	Santorino
+cropped/001985.jpg	coffee & tea
+cropped/001986.jpg	THỰC ĐƠN MÓN CHAY
+cropped/001987.jpg	VEGETARIAN FOOD
+cropped/001988.jpg	1. Cơm đậu hủ kho xả ớt
+cropped/001989.jpg	2. Shashuka nấm và rau củ
+cropped/001990.jpg	3. Cơm cải thìa sốt nấm đông cô
+cropped/001991.jpg	4. Cơm chiên rau củ
+cropped/001992.jpg	5. Salad dầu giấm
+cropped/001993.jpg	6. Mì Ý sốt cay
+cropped/001994.jpg	7. Mì Ý sốt Pesto
+cropped/001995.jpg	8. Mì trộn chay Santorino
+cropped/001996.jpg	9. Bánh mì phô mai Margherita
+cropped/001997.jpg	10. Soup rau củ bánh mì
+cropped/001998.jpg	11. Khoai tây nghiền
+cropped/001999.jpg	12. Khoai lang lắc phô mai
+cropped/002000.jpg	13. Khoai tây chiên sốt phô mai
+cropped/002001.jpg	44
+cropped/002002.jpg	44
+cropped/002003.jpg	44
+cropped/002004.jpg	58
+cropped/002005.jpg	28
+cropped/002006.jpg	52
+cropped/002007.jpg	55
+cropped/002008.jpg	47
+cropped/002009.jpg	40
+cropped/002010.jpg	43
+cropped/002011.jpg	35
+cropped/002012.jpg	32
+cropped/002013.jpg	40
+cropped/002014.jpg	DELIVERY: 088 661 7779
+cropped/002015.jpg	NHÀ HÀNG
+cropped/002016.jpg	ALASKA
+cropped/002017.jpg	RAU MUỐNG XÀO TỎI/LUỘC
+cropped/002018.jpg	SÚP LƠ XÀO BÒ/XÀO TỎI
+cropped/002019.jpg	RAU LANG XÀO TỎI
+cropped/002020.jpg	CỦ QUẢ KHO QUẸT/MUỐI MÈ
+cropped/002021.jpg	CẢI THÌA, CẢI XANH XÀO TỎI
+cropped/002022.jpg	CẢI THÌA SỐT NẤM
+cropped/002023.jpg	BÓ XÔI XÀO TỎI
+cropped/002024.jpg	RAU RỪNG MẮM CUA/XÀO TỎI
+cropped/002025.jpg	DƯA CẢI CHUA XÀO BA CHỈ
+cropped/002026.jpg	MĂNG TÂY XÀO BÒ/TÔM/TỎI
+cropped/002027.jpg	BÔNG BÍ XÀO TỎI
+cropped/002028.jpg	CẢI THẢO SỐT NẤM BÀO NGƯ
+cropped/002029.jpg	BẦU LUỘC CHẤM TRỨNG
+cropped/002030.jpg	KHỔ QUA XÀO TRỨNG
+cropped/002031.jpg	KHỔ QUA CHÀ BÔNG
+cropped/002032.jpg	RAU
+cropped/002033.jpg	NHÀ HÀNG CHAY
+cropped/002034.jpg	TRƯỜNG LẠC
+cropped/002035.jpg	KHAI VỊ
+cropped/002036.jpg	MÓN CHÍNH
+cropped/002037.jpg	BÚN/MỲ/BÁNH
+cropped/002038.jpg	GỎI/SALAD
+cropped/002039.jpg	LẨU
+cropped/002040.jpg	SÚP
+cropped/002041.jpg	Nem vuông
+cropped/002042.jpg	Chả giò
+cropped/002043.jpg	Xôi chiên
+cropped/002044.jpg	Gỏi cuốn
+cropped/002045.jpg	Khoai tây lắc phô mai
+cropped/002046.jpg	Nấm xúc bánh tráng
+cropped/002047.jpg	Môn Hồng Kông
+cropped/002048.jpg	Bánh lọc Huế
+cropped/002049.jpg	Sườn Kinh Đô
+cropped/002050.jpg	Bào ngư lắc phô mai
+cropped/002051.jpg	Gỏi ngó sen
+cropped/002052.jpg	Gỏi rong biển
+cropped/002053.jpg	Gỏi hoa chuối
+cropped/002054.jpg	Gỏi cổ hủ dừa
+cropped/002055.jpg	Salad rau trộn
+cropped/002056.jpg	Salad trái cây
+cropped/002057.jpg	Nấm nướng phô mai
+cropped/002058.jpg	Nấm né sốt tiêu
+cropped/002059.jpg	Đậu hủ nướng giấy bạc
+cropped/002060.jpg	Cơm cháy kho quẹt
+cropped/002061.jpg	Cơm chiên Trường Lạc
+cropped/002062.jpg	Cơm chiên thập cẩm
+cropped/002063.jpg	Cơm chiên tay cầm
+cropped/002064.jpg	Cơm gạo lứt hạt sen
+cropped/002065.jpg	Cari bánh mỳ
+cropped/002066.jpg	Lẩu riêu Trường Lạc
+cropped/002067.jpg	Lẩu hương sả
+cropped/002068.jpg	Lẩu Thái
+cropped/002069.jpg	Lẩu Trường Lạc
+cropped/002070.jpg	Bún chả giò
+cropped/002071.jpg	Bún Thái
+cropped/002072.jpg	Bún nấm
+cropped/002073.jpg	Miến
+cropped/002074.jpg	Miến xào
+cropped/002075.jpg	Mỳ xào thập cẩm
+cropped/002076.jpg	Bánh xèo
+cropped/002077.jpg	Súp hạt sen
+cropped/002078.jpg	Súp tóc tiên
+cropped/002079.jpg	Súp rong biển
+cropped/002080.jpg	Súp Trường Lạc
+cropped/002081.jpg	60K
+cropped/002082.jpg	50K
+cropped/002083.jpg	60K
+cropped/002084.jpg	40K
+cropped/002085.jpg	35K
+cropped/002086.jpg	60K
+cropped/002087.jpg	40K
+cropped/002088.jpg	30K
+cropped/002089.jpg	80K
+cropped/002090.jpg	60K
+cropped/002091.jpg	55K
+cropped/002092.jpg	55K
+cropped/002093.jpg	55K
+cropped/002094.jpg	55K
+cropped/002095.jpg	40K
+cropped/002096.jpg	80K
+cropped/002097.jpg	50K
+cropped/002098.jpg	60K
+cropped/002099.jpg	60K
+cropped/002100.jpg	50K
+cropped/002101.jpg	60K
+cropped/002102.jpg	60K
+cropped/002103.jpg	60K
+cropped/002104.jpg	60K
+cropped/002105.jpg	50K
+cropped/002106.jpg	225K
+cropped/002107.jpg	225K
+cropped/002108.jpg	225K
+cropped/002109.jpg	250K
+cropped/002110.jpg	35K
+cropped/002111.jpg	35K
+cropped/002112.jpg	35K
+cropped/002113.jpg	35K
+cropped/002114.jpg	35K
+cropped/002115.jpg	55K
+cropped/002116.jpg	35K
+cropped/002117.jpg	40K
+cropped/002118.jpg	40K
+cropped/002119.jpg	40K
+cropped/002120.jpg	45K
+cropped/002121.jpg	NHÀ HÀNG
+cropped/002122.jpg	ALASKA
+cropped/002123.jpg	CHÁO
+cropped/002124.jpg	CHÁO HẢI SẢN
+cropped/002125.jpg	CHÁO HÀU
+cropped/002126.jpg	CHÁO BÒ BẰM
+cropped/002127.jpg	CHÁO BỒ CÂU
+cropped/002128.jpg	CHÁO ẾCH SINGAPORE
+cropped/002129.jpg	CHÁO SƯỜN
+cropped/002130.jpg	CHÁO CÁ BÓP
+cropped/002131.jpg	CHÁO TÔM
+cropped/002132.jpg	CHÁO TRẮNG
+cropped/002133.jpg	NHÀ HÀNG
+cropped/002134.jpg	ALASKA
+cropped/002135.jpg	CÁC MÓN GỎI
+cropped/002136.jpg	GỎI SỨA KHOAI MÔN HẢI SẢN
+cropped/002137.jpg	GỎI SỨA HẢI SẢN
+cropped/002138.jpg	GỎI HẢI SẢN
+cropped/002139.jpg	SALAD RONG NHO HẢI SẢN
+cropped/002140.jpg	GỎI SALAD RONG NHO
+cropped/002141.jpg	SALAD CHANH LEO
+cropped/002142.jpg	GỎI DA CÁ
+cropped/002143.jpg	GỎI TAI HEO DƯA CHUA
+cropped/002144.jpg	GỎI MIẾN HẢI SẢN
+cropped/002145.jpg	GỎI BÒ RAU THƠM
+cropped/002146.jpg	GỎI BÒ TÁI CHANH
+cropped/002147.jpg	GỎI BẮP BÒ RAU MẦM
+cropped/002148.jpg	Cô Y
+cropped/002149.jpg	Quán Cơm Bình Dân
+cropped/002150.jpg	Gà Chiên
+cropped/002151.jpg	Thịt Kho Tiêu
+cropped/002152.jpg	Thịt Kho Trứng
+cropped/002153.jpg	Thịt Kho Trứng Cút
+cropped/002154.jpg	Thịt Kho CurCari
+cropped/002155.jpg	Heo Quay
+cropped/002156.jpg	Bò Xào Hành Tây
+cropped/002157.jpg	Vịt Kho Gừng
+cropped/002158.jpg	Giò Heo Giả Cầy
+cropped/002159.jpg	Vịt Nấu Chao
+cropped/002160.jpg	Thịt Luộc Cà Pháo
+cropped/002161.jpg	Tôm Ram Ba Rọi
+cropped/002162.jpg	Ếch sả ớt
+cropped/002163.jpg	Mắm Ruốc Ba Rọi
+cropped/002164.jpg	Mắm Chưng
+cropped/002165.jpg	Đậu Hủ Sốt Cà
+cropped/002166.jpg	Xíu Mại
+cropped/002167.jpg	Cá Trê Chiên
+cropped/002168.jpg	Cá Ngừ Chiên
+cropped/002169.jpg	Cá Bống Muối Sả Chiên
+cropped/002170.jpg	Cá Hường Muối Sả Chiên
+cropped/002171.jpg	Cá Phi Lê Muối Sả Chiên
+cropped/002172.jpg	Cá Điêu Hồng Chiên
+cropped/002173.jpg	Cá Hú Kho
+cropped/002174.jpg	Cá Lóc Kho
+cropped/002175.jpg	Cá Rô Kho
+cropped/002176.jpg	Cá Bống Kho
+cropped/002177.jpg	Cá Cam Kho
+cropped/002178.jpg	Khô Cá Tra
+cropped/002179.jpg	Canh Bí Đỏ - Canh Chua
+cropped/002180.jpg	30
+cropped/002181.jpg	30
+cropped/002182.jpg	30
+cropped/002183.jpg	30
+cropped/002184.jpg	30
+cropped/002185.jpg	30
+cropped/002186.jpg	30
+cropped/002187.jpg	30
+cropped/002188.jpg	25
+cropped/002189.jpg	35
+cropped/002190.jpg	30
+cropped/002191.jpg	30
+cropped/002192.jpg	25
+cropped/002193.jpg	30
+cropped/002194.jpg	30
+cropped/002195.jpg	30
+cropped/002196.jpg	30
+cropped/002197.jpg	25
+cropped/002198.jpg	25
+cropped/002199.jpg	25
+cropped/002200.jpg	25
+cropped/002201.jpg	25
+cropped/002202.jpg	25
+cropped/002203.jpg	25
+cropped/002204.jpg	25
+cropped/002205.jpg	25
+cropped/002206.jpg	25
+cropped/002207.jpg	30
+cropped/002208.jpg	30
+cropped/002209.jpg	NHÀ HÀNG
+cropped/002210.jpg	ALASKA
+cropped/002211.jpg	CƠM CANH
+cropped/002212.jpg	CƠM MÌ MIẾN
+cropped/002213.jpg	THỊT BA CHỈ RANG CHÁY CẠNH
+cropped/002214.jpg	TRỨNG ĐÚC THỊT BẰM
+cropped/002215.jpg	TRỨNG CHIÊN HÀU
+cropped/002216.jpg	TÔM RIM THỊT BA CHỈ
+cropped/002217.jpg	CÁ LÓC KHO TỘ
+cropped/002218.jpg	CANH CHUA THỊT BÒ
+cropped/002219.jpg	CANH CẢI THỊT BẰM/TÔM
+cropped/002220.jpg	CANH CÁ THÁT LÁT KHỔ QUA
+cropped/002221.jpg	CANH RONG BIỂN HẢI SẢN
+cropped/002222.jpg	CANH RAU TẬP TÀNG
+cropped/002223.jpg	CANH CHUA NGAO
+cropped/002224.jpg	ĐẶC BIỆT CƠM CHIÊN THỊT GHẸ
+cropped/002225.jpg	CƠM CHIỂN HẢI SẢN/ CÁ MẶN
+cropped/002226.jpg	CƠM CHIÊN DƯƠNG CHÂU
+cropped/002227.jpg	CƠM CHIÊN HẢI SẢN DỨA KIỂU THÁI
+cropped/002228.jpg	CƠM CHIÊN BÒ & KIM CHI
+cropped/002229.jpg	CƠM CHIÊN BÒ & DƯA CHUA
+cropped/002230.jpg	CƠM CHIÊN TRỨNG
+cropped/002231.jpg	CƠM CHIÊN MUỐI ỚT
+cropped/002232.jpg	CƠM CHIÊN TỎI
+cropped/002233.jpg	MÌ XÀO BÒ & RAU
+cropped/002234.jpg	MÌ XÀO HẢI SẢN & RAU
+cropped/002235.jpg	MIẾN XÀO CUA
+cropped/002236.jpg	MIẾN XÀO HẢI SẢN
+cropped/002237.jpg	MIẾN XÀO CHAY
+cropped/002238.jpg	XÔI CHIM CÚT
+cropped/002239.jpg	Quán Chay
+cropped/002240.jpg	HOAN HỶ
+cropped/002241.jpg	ĐC: 74 LÊ LỢI - QUY NHƠN
+cropped/002242.jpg	ĐT: 0909.211.568
+cropped/002243.jpg	THỰC ĐƠN
+cropped/002244.jpg	Lẩu Thái
+cropped/002245.jpg	Lẩu Nấm
+cropped/002246.jpg	Gỏi Xoài
+cropped/002247.jpg	Gỏi Hoa Chuối
+cropped/002248.jpg	Chả ram
+cropped/002249.jpg	Bún Cari
+cropped/002250.jpg	Bánh mì Cari
+cropped/002251.jpg	BúnThái
+cropped/002252.jpg	Bún Huế
+cropped/002253.jpg	Bánh canh
+cropped/002254.jpg	Cơm chiên Dương Châu
+cropped/002255.jpg	Cơm bò lúc lắc
+cropped/002256.jpg	Cơm thố
+cropped/002257.jpg	Bánh bột lọc
+cropped/002258.jpg	Mì Udon Nhật Bản
+cropped/002259.jpg	Combo Cơm Hoan Hỷ
+cropped/002260.jpg	150k-280k
+cropped/002261.jpg	150k-280k
+cropped/002262.jpg	40k
+cropped/002263.jpg	40k
+cropped/002264.jpg	35k
+cropped/002265.jpg	35k
+cropped/002266.jpg	35k
+cropped/002267.jpg	30k
+cropped/002268.jpg	30k
+cropped/002269.jpg	30k
+cropped/002270.jpg	40k
+cropped/002271.jpg	40k
+cropped/002272.jpg	40k
+cropped/002273.jpg	20k
+cropped/002274.jpg	35k
+cropped/002275.jpg	45k
+cropped/002276.jpg	CƠM MẸ NẤU
+cropped/002277.jpg	NHẬN ĐẶT TIỆC
+cropped/002278.jpg	LIÊN HOAN
+cropped/002279.jpg	THỨC UỐNG
+cropped/002280.jpg	THỨC ĂN
+cropped/002281.jpg	SHIP CƠM VÀ NƯỚC: 0989 635 101 HOẶC 0905 510 799
+cropped/002282.jpg	CAFÉ ĐEN
+cropped/002283.jpg	CAFÉ SỮA
+cropped/002284.jpg	CAM TƯƠI
+cropped/002285.jpg	CÀ CHUA
+cropped/002286.jpg	CÀ RỐT
+cropped/002287.jpg	ỔI
+cropped/002288.jpg	THƠM
+cropped/002289.jpg	CÁC LOẠI NƯỚC NGỌT
+cropped/002290.jpg	BÚN CÁ
+cropped/002291.jpg	CƠM THẬP CẨM
+cropped/002292.jpg	KHỔ QUA
+cropped/002293.jpg	CƠM PHẦN GỌI MÓN 5 MÓN CHÍNH
+cropped/002294.jpg	10K
+cropped/002295.jpg	12K
+cropped/002296.jpg	20K
+cropped/002297.jpg	15K
+cropped/002298.jpg	15K
+cropped/002299.jpg	15K
+cropped/002300.jpg	15K
+cropped/002301.jpg	15K
+cropped/002302.jpg	20K
+cropped/002303.jpg	25K
+cropped/002304.jpg	5K/CHÉN
+cropped/002305.jpg	70K/NGƯỜI
+cropped/002306.jpg	Menu
+cropped/002307.jpg	HẢI SẢN ÚT LỢI
+cropped/002308.jpg	ĐC: 20 VÕ ĐÌNH TÚ
+cropped/002309.jpg	SĐT: 0702 383 885 - 02563 360 920
+cropped/002310.jpg	MÓN CHÁY TỎI
+cropped/002311.jpg	MÓN NƯỚNG
+cropped/002312.jpg	MÓN CHÁO - MÌ
+cropped/002313.jpg	MÓN HẤP GỪNG
+cropped/002314.jpg	Tôm Càng Xanh
+cropped/002315.jpg	Ốc Hương
+cropped/002316.jpg	Ốc Móng Tay
+cropped/002317.jpg	Ốc Cà Na
+cropped/002318.jpg	Sò Điệp Mỡ Hành
+cropped/002319.jpg	Sò Điệp Phômai
+cropped/002320.jpg	Hàu Mỡ Hành
+cropped/002321.jpg	Hàu Phômai
+cropped/002322.jpg	Cháo Hải Sản
+cropped/002323.jpg	Cháo Hàu
+cropped/002324.jpg	Cháo Tôm
+cropped/002325.jpg	Mì Xào Hải Sản
+cropped/002326.jpg	Mực Cơm Hấp Gừng
+cropped/002327.jpg	Ốc Trộn Gỏi Chua Ngọt
+cropped/002328.jpg	Tính Ký
+cropped/002329.jpg	160.000đ/ Dĩa
+cropped/002330.jpg	80.000đ/ Dĩa
+cropped/002331.jpg	80.000đ/ Dĩa
+cropped/002332.jpg	80.000đ/ Dĩa
+cropped/002333.jpg	90.000đ/ Dĩa
+cropped/002334.jpg	80.000đ/ Dĩa
+cropped/002335.jpg	90.000đ/ Dĩa
+cropped/002336.jpg	80.000đ/ Tô
+cropped/002337.jpg	80.000đ/ Tô
+cropped/002338.jpg	80.000đ/ Tô
+cropped/002339.jpg	80.000đ/ Dĩa
+cropped/002340.jpg	Tính Ký
+cropped/002341.jpg	80.000đ/ Dĩa
+cropped/002342.jpg	Chúc Quý Khách Ngon Miệng!
+cropped/002343.jpg	Nhà Hàng
+cropped/002344.jpg	Ốc Cu Bon
+cropped/002345.jpg	Món Nghêu
+cropped/002346.jpg	Món Hào
+cropped/002347.jpg	Món Mực
+cropped/002348.jpg	nghêu hấp sả
+cropped/002349.jpg	nghêu hấp thái
+cropped/002350.jpg	hấp nấm
+cropped/002351.jpg	xào sả ớt
+cropped/002352.jpg	hào nướng mọi
+cropped/002353.jpg	hào nướng mỡ hành
+cropped/002354.jpg	hào nướng phô mai
+cropped/002355.jpg	mực hấp gừng
+cropped/002356.jpg	mực chiên giòn
+cropped/002357.jpg	mực chiên nước mắm
+cropped/002358.jpg	mực xào chua ngọt
+cropped/002359.jpg	50k
+cropped/002360.jpg	60k
+cropped/002361.jpg	60k
+cropped/002362.jpg	65k
+cropped/002363.jpg	15k/con
+cropped/002364.jpg	15k/con
+cropped/002365.jpg	20k/con
+cropped/002366.jpg	80k
+cropped/002367.jpg	85k
+cropped/002368.jpg	85k
+cropped/002369.jpg	90k
+cropped/002370.jpg	Nhà Hàng
+cropped/002371.jpg	Ốc Cu Bon
+cropped/002372.jpg	Món Khai Vị
+cropped/002373.jpg	rau muống xào tỏi
+cropped/002374.jpg	đậu bắp luộc
+cropped/002375.jpg	mồng tơi xào tỏi
+cropped/002376.jpg	hoa thiên lý xào tỏi
+cropped/002377.jpg	đậu bắp luộc chấm chao
+cropped/002378.jpg	cải thì xào dầu hào
+cropped/002379.jpg	đậu bắp luộc chấm trứng dằm
+cropped/002380.jpg	xalat dầu giấm cá ngừ
+cropped/002381.jpg	hoa thiên lý xào bò
+cropped/002382.jpg	hoa thiên lý xào tôm
+cropped/002383.jpg	mồng tơi xào tôm
+cropped/002384.jpg	rau luộc kho quẹt
+cropped/002385.jpg	xalat dầu dấm bò
+cropped/002386.jpg	35k
+cropped/002387.jpg	35k
+cropped/002388.jpg	35k
+cropped/002389.jpg	35k
+cropped/002390.jpg	35k
+cropped/002391.jpg	40k
+cropped/002392.jpg	45k
+cropped/002393.jpg	55k
+cropped/002394.jpg	60k
+cropped/002395.jpg	60k
+cropped/002396.jpg	60k
+cropped/002397.jpg	65k
+cropped/002398.jpg	65k
+cropped/002399.jpg	Coffee
+cropped/002400.jpg	Gia Trang
+cropped/002401.jpg	223 Tăng Bạt Hổ, TP. Quy Nhơn
+cropped/002402.jpg	CÀ PHÊ
+cropped/002403.jpg	MATCHA
+cropped/002404.jpg	TRÀ
+cropped/002405.jpg	Espresso đen
+cropped/002406.jpg	Espresso sữa
+cropped/002407.jpg	Cà phê sữa đá
+cropped/002408.jpg	Cà phê đen đá
+cropped/002409.jpg	Bạc xỉu đá/nóng
+cropped/002410.jpg	Bạc xỉu kem
+cropped/002411.jpg	Cacao đá/nóng
+cropped/002412.jpg	Cacao kem
+cropped/002413.jpg	Cà phê đá xay kem
+cropped/002414.jpg	Cookie đá xay kem
+cropped/002415.jpg	Socola đá xay kem
+cropped/002416.jpg	Matcha latte
+cropped/002417.jpg	Matcha trà xanh kem tươi
+cropped/002418.jpg	Trà sữa váng
+cropped/002419.jpg	(Phô mai/Trà xanh/Vani)
+cropped/002420.jpg	Sữa tươi trân châu đường đen
+cropped/002421.jpg	Trà Chanh
+cropped/002422.jpg	Trà Đào
+cropped/002423.jpg	Trà Việt quất
+cropped/002424.jpg	Trà Lipton(đá/nóng)
+cropped/002425.jpg	Trà Dâu tươi
+cropped/002426.jpg	17k
+cropped/002427.jpg	18k
+cropped/002428.jpg	18k
+cropped/002429.jpg	17k
+cropped/002430.jpg	25k
+cropped/002431.jpg	22k
+cropped/002432.jpg	25k
+cropped/002433.jpg	22k
+cropped/002434.jpg	25k
+cropped/002435.jpg	25k
+cropped/002436.jpg	25k
+cropped/002437.jpg	25k
+cropped/002438.jpg	25k
+cropped/002439.jpg	25k
+cropped/002440.jpg	25k
+cropped/002441.jpg	25k
+cropped/002442.jpg	25k
+cropped/002443.jpg	25k
+cropped/002444.jpg	25k
+cropped/002445.jpg	25k
+cropped/002446.jpg	CÁC MÓN ỐC
+cropped/002447.jpg	CÁC MÓN XÀO
+cropped/002448.jpg	CÁC MÓN HẤP
+cropped/002449.jpg	CÁC MÓN CHÁO
+cropped/002450.jpg	CÁC MÓN LẪU
+cropped/002451.jpg	QUÁN NHẬU BÌNH DÂN
+cropped/002452.jpg	2 CƠ
+cropped/002453.jpg	Phone: 0333 333 564
+cropped/002454.jpg	Đc: 83 Nguyễn Trọng Trì, Quy Nhơn
+cropped/002455.jpg	ỐC LEN XÀO DỪA
+cropped/002456.jpg	ỐC BƯƠU XÀO DỪA
+cropped/002457.jpg	QUYẾT XÀO HẸ
+cropped/002458.jpg	MỰC XÀO CHUA NGỌT
+cropped/002459.jpg	DẠ TRƯỜNG XÀO CHUA NGỌT
+cropped/002460.jpg	MỀ GÀ XÀO CHUA NGỌT
+cropped/002461.jpg	ĐẬU BẮP XÀO BÒ
+cropped/002462.jpg	MÌ XÀO BÒ
+cropped/002463.jpg	LÒNG XÀO HẸ
+cropped/002464.jpg	BAO TỬ XÀO HẸ
+cropped/002465.jpg	XÌA HẤP
+cropped/002466.jpg	DẠ TRƯỜNG HẤP
+cropped/002467.jpg	BẠCH TUỘT HẤP
+cropped/002468.jpg	MỰC HẤP
+cropped/002469.jpg	GÂN, MÓNG BÒ HẤP
+cropped/002470.jpg	CHÁO HẢI SẢN
+cropped/002471.jpg	CHÁO HÀU
+cropped/002472.jpg	LẪU THẬP CẨM
+cropped/002473.jpg	LẪU CÁ THÁC LÁC
+cropped/002474.jpg	CÁ THÁC LÁC KHỔ QUA
+cropped/002475.jpg	CÁ THÁC LÁC LÁ GIANG
+cropped/002476.jpg	BAO TỬ HẦM TIÊU XANH
+cropped/002477.jpg	GÂN, MÓNG, BÒ HẦM MĂNG
+cropped/002478.jpg	ĐUÔI HEO HẦM MĂNG
+cropped/002479.jpg	MÓN KHAI VỊ
+cropped/002480.jpg	CÁC MÓN GỎI
+cropped/002481.jpg	CÁC MÓN NƯỚNG
+cropped/002482.jpg	CÁC MÓN CHIÊN
+cropped/002483.jpg	QUÁN NHẬU BÌNH DÂN
+cropped/002484.jpg	2 CƠ
+cropped/002485.jpg	Phone: 0333 333 564
+cropped/002486.jpg	Đc: 83 Nguyễn Trọng Trì, Quy Nhơn
+cropped/002487.jpg	CHẢ RAM TÔM ĐẤT
+cropped/002488.jpg	DA BÒ CUỐN LÁ MƠ
+cropped/002489.jpg	ĐẬU CHIÊN
+cropped/002490.jpg	ĐẬU BẮP LUỘC
+cropped/002491.jpg	CẢI XÀO TỎI
+cropped/002492.jpg	CHÂN GÀ RANG MUỐI
+cropped/002493.jpg	TAI HEO CHUA NGỌT
+cropped/002494.jpg	GỎI HẢI SẢN
+cropped/002495.jpg	GỎI TAI HEO
+cropped/002496.jpg	GỎI GÂN BÒ
+cropped/002497.jpg	GỎI DA CÁ
+cropped/002498.jpg	GỎI SỨA
+cropped/002499.jpg	GỎI MỀ GÀ
+cropped/002500.jpg	GỎI BAO TỬ
+cropped/002501.jpg	CHÂN GÀ NƯỚNG
+cropped/002502.jpg	BÒ NƯỚNG LÁ LỐP
+cropped/002503.jpg	TÔM NƯỚNG
+cropped/002504.jpg	LÒNG NƯỚNG
+cropped/002505.jpg	MỀ GÀ NƯỚNG
+cropped/002506.jpg	CÁ MỰC KHÔ NƯỚNG
+cropped/002507.jpg	CÁNH GÀ CHIÊN MẮM
+cropped/002508.jpg	CÁNH GÀ CHIÊN ME
+cropped/002509.jpg	CHÂN GÀ CHIÊN MẮM
+cropped/002510.jpg	MỰC CHIÊN TỎI
+cropped/002511.jpg	CÁ LÓC CHIÊN ME
+cropped/002512.jpg	CÁC LÓC CHIÊN MẮM XOÀI
+cropped/002513.jpg	CÁ LAO CHIÊN MẮM
+cropped/002514.jpg	BÒ CHÁY TỎI
+cropped/002515.jpg	CÁC MÓN NƯỚC NẤU NIÊU
+cropped/002516.jpg	CÁC MÓN LẨU
+cropped/002517.jpg	CÁC MÓN XÀO
+cropped/002518.jpg	CÁC MÓN HẢI SẢN/ ỐC
+cropped/002519.jpg	CÁC MÓN KHÁC
+cropped/002520.jpg	CÁC MÓN NHẬU NHẸ
+cropped/002521.jpg	Kính Chúc Quý Khách Ngon Miệng!
+cropped/002522.jpg	Wifi:nuonghappy
+cropped/002523.jpg	Pass:camonquykhach
+cropped/002524.jpg	CHÁO HÀNH
+cropped/002525.jpg	CHÁO HẢI SẢN
+cropped/002526.jpg	CHÁO CÁ BÓP
+cropped/002527.jpg	CHÁO HÀU
+cropped/002528.jpg	XÌA HẤP NIÊU
+cropped/002529.jpg	CÁ THÁC LÁC NẤU KHỔ QUA
+cropped/002530.jpg	CÁ THÁC LÁC NẤU LÁ GIANG
+cropped/002531.jpg	CHÂN GÀ NẤU LÁ GIANG
+cropped/002532.jpg	CÁ BÓP CHUA NGỌT
+cropped/002533.jpg	ĐUÔI HEO HẦM MĂNG
+cropped/002534.jpg	BAO TỬ HẦM TIÊU XANH
+cropped/002535.jpg	CÁ ĐUỐI UM
+cropped/002536.jpg	RAU MUỐNG XÀO TỎI
+cropped/002537.jpg	BẮP XÀO HẢI SẢN/ HÀNH
+cropped/002538.jpg	LÒNG XÀO
+cropped/002539.jpg	LÒNG XÀO BÚN
+cropped/002540.jpg	ẾCH XÀO SẢ ỚT
+cropped/002541.jpg	MÌ XÀO HẢI SẢN/ BÒ/ ỐC
+cropped/002542.jpg	BÒ XÀO CHUA NGỌT
+cropped/002543.jpg	SƯỜN XÀO CHUA NGỌT
+cropped/002544.jpg	ĐẬU BẮP LUỘC
+cropped/002545.jpg	KHỔ QUA DĂM BÔNG
+cropped/002546.jpg	CẢI XÀO NẤM CHAY
+cropped/002547.jpg	ĐẬU NON SỐT NẤM
+cropped/002548.jpg	TRỨNG NON CHÁY TỎI
+cropped/002549.jpg	BÒ CỤC CHÁY TỎI
+cropped/002550.jpg	BÒ NHÚNG GIẤM
+cropped/002551.jpg	BẠCH TUỘC NHÚNG GIẤM
+cropped/002552.jpg	LẨU ẾCH MĂNG CHUA
+cropped/002553.jpg	LẨU RIÊU CUA ĐỒNG
+cropped/002554.jpg	LẨU SỨA
+cropped/002555.jpg	LẨU THÁI
+cropped/002556.jpg	LẨU HẢI SẢN
+cropped/002557.jpg	LẨU THÁI CÓ NẤM
+cropped/002558.jpg	LẨU GÀ LÁ GIANG
+cropped/002559.jpg	LẨU CÁ BÓP
+cropped/002560.jpg	NẤM THÊM
+cropped/002561.jpg	ỐC XÀO RAU MUỐNG/ SA TẾ
+cropped/002562.jpg	ỐC CÀ NA XÀO SA TẾ/ XÀO ME
+cropped/002563.jpg	ỐC HƯƠNG XÀO BƠ CAY
+cropped/002564.jpg	ỐC HƯƠNG CHÁY TỎI
+cropped/002565.jpg	ỐC HƯƠNG HẤP
+cropped/002566.jpg	ỐC NHẢY HẤP
+cropped/002567.jpg	HÀU NƯỚNG
+cropped/002568.jpg	SÒ ĐIỆP NƯỚNG
+cropped/002569.jpg	KHÔ MỰC
+cropped/002570.jpg	CÁ SƠN NƯỚNG
+cropped/002571.jpg	CÁ CHỈ VÀNG
+cropped/002572.jpg	CÁ LAO NƯỚNG
+cropped/002573.jpg	30K
+cropped/002574.jpg	50K
+cropped/002575.jpg	60K
+cropped/002576.jpg	60K
+cropped/002577.jpg	50K
+cropped/002578.jpg	50K
+cropped/002579.jpg	50K
+cropped/002580.jpg	50K
+cropped/002581.jpg	60K
+cropped/002582.jpg	50K
+cropped/002583.jpg	80K
+cropped/002584.jpg	99K
+cropped/002585.jpg	25K
+cropped/002586.jpg	35K
+cropped/002587.jpg	40K
+cropped/002588.jpg	40K
+cropped/002589.jpg	40K
+cropped/002590.jpg	59K
+cropped/002591.jpg	60K
+cropped/002592.jpg	60K
+cropped/002593.jpg	30K
+cropped/002594.jpg	40K
+cropped/002595.jpg	40K
+cropped/002596.jpg	50K
+cropped/002597.jpg	70K
+cropped/002598.jpg	89K
+cropped/002599.jpg	99K
+cropped/002600.jpg	99K
+cropped/002601.jpg	130K
+cropped/002602.jpg	180K
+cropped/002603.jpg	160K
+cropped/002604.jpg	160K
+cropped/002605.jpg	160K
+cropped/002606.jpg	180K
+cropped/002607.jpg	180K
+cropped/002608.jpg	180K
+cropped/002609.jpg	29K
+cropped/002610.jpg	40K
+cropped/002611.jpg	40K
+cropped/002612.jpg	60K
+cropped/002613.jpg	60K
+cropped/002614.jpg	60K
+cropped/002615.jpg	35K
+cropped/002616.jpg	13K/ CON
+cropped/002617.jpg	10K/ CON
+cropped/002618.jpg	THEO THỜI GIÁ
+cropped/002619.jpg	THEO THỜI GIÁ
+cropped/002620.jpg	60K
+cropped/002621.jpg	99K
+cropped/002622.jpg	CƠ SỞ 1: 89 NGUYỄN LỮ
+cropped/002623.jpg	CƠ SỞ 2: 290 XUÂN DIỆU
+cropped/002624.jpg	CÁC MÓN NƯỚNG NGÓI
+cropped/002625.jpg	XÚC XÍCH ĐỨC NƯỚNG
+cropped/002626.jpg	MỀ GÀ NƯỚNG MUỐI ỚT
+cropped/002627.jpg	BẠCH TUỘC NƯỚNG
+cropped/002628.jpg	TÔM NƯỚNG
+cropped/002629.jpg	LÒNG NƯỚNG
+cropped/002630.jpg	MENU NƯỚNG HAPPY
+cropped/002631.jpg	(NHẬU NGON MỒI XỊN)
+cropped/002632.jpg	NEM NƯỚNG
+cropped/002633.jpg	THỊT BA CHỈ NƯỚNG
+cropped/002634.jpg	SƯỜN NON NƯỚNG
+cropped/002635.jpg	BẸ SỮA NƯỚNG
+cropped/002636.jpg	BẸ SỮA NƯỚNG CHAO
+cropped/002637.jpg	BÒ NƯỚNG MUỐI ỚT
+cropped/002638.jpg	BÒ NƯỚNG MỌI
+cropped/002639.jpg	BÒ NƯỚNG SA TẾ
+cropped/002640.jpg	BÒ QUẤN LÁ LỐT
+cropped/002641.jpg	BÒ CUỘN KIM CHÂM
+cropped/002642.jpg	BA CHỈ BÒ CUỐN PHÔ MAI
+cropped/002643.jpg	HEO RỪNG NƯỚNG
+cropped/002644.jpg	NAI NƯỚNG
+cropped/002645.jpg	CHÂN GÀ NƯỚNG
+cropped/002646.jpg	ẾCH NƯỚNG
+cropped/002647.jpg	BÒ CỤC NƯỚNG
+cropped/002648.jpg	MỰC CƠM NƯỚNG SA TẾ
+cropped/002649.jpg	CÁ BÓP NƯỚNG MẮM XOÀI
+cropped/002650.jpg	12K/CÂY
+cropped/002651.jpg	39K
+cropped/002652.jpg	39K
+cropped/002653.jpg	39K
+cropped/002654.jpg	39K
+cropped/002655.jpg	45K
+cropped/002656.jpg	39K
+cropped/002657.jpg	39K
+cropped/002658.jpg	45K
+cropped/002659.jpg	50K
+cropped/002660.jpg	45K
+cropped/002661.jpg	45K
+cropped/002662.jpg	45K
+cropped/002663.jpg	45K
+cropped/002664.jpg	45K
+cropped/002665.jpg	45K
+cropped/002666.jpg	45K
+cropped/002667.jpg	45K
+cropped/002668.jpg	45K
+cropped/002669.jpg	45K
+cropped/002670.jpg	89K
+cropped/002671.jpg	79K
+cropped/002672.jpg	120K
+cropped/002673.jpg	CÁC MÓN CHIÊN
+cropped/002674.jpg	XÚC XÍCH ĐỨC CHIÊN
+cropped/002675.jpg	TỐP MỠ CHIÊN MẮM
+cropped/002676.jpg	TỐP MỠ XỐC MUỐI
+cropped/002677.jpg	KHOAI TÂY CHIÊN
+cropped/002678.jpg	CHẢ RAM CHIÊN
+cropped/002679.jpg	CHẢ RAM TÔM ĐẤT CHIÊN
+cropped/002680.jpg	CHÂN GÀ CHIÊN MẮM
+cropped/002681.jpg	CÁNH GÀ CHIÊN MẮM
+cropped/002682.jpg	ẾCH CHIÊN MẮM
+cropped/002683.jpg	CHẢ CÁ THÁC LÁC CHIÊN
+cropped/002684.jpg	ĐẬU NON CHIÊN DĂM BÔNG
+cropped/002685.jpg	CÁ TRỨNG CHIÊN
+cropped/002686.jpg	CƠM CHIÊN BÒ BẰM
+cropped/002687.jpg	CƠM CHIÊN MUỐI ỚT CAY
+cropped/002688.jpg	CƠM CHIÊN CÁ MẶN
+cropped/002689.jpg	CƠM CHIÊN TRỨNG
+cropped/002690.jpg	CƠM CHIÊN TỎI
+cropped/002691.jpg	CƠM CHIÊN HẢI SẢN
+cropped/002692.jpg	ĐUÔI HEO CHIÊN MẮM
+cropped/002693.jpg	SỤN GÀ CHIÊN MẮM
+cropped/002694.jpg	SỤN GÀ XỐC MUỐI
+cropped/002695.jpg	MỰC CƠM CHIÊN TỎI
+cropped/002696.jpg	MỰC CƠM CHIÊN MẮM
+cropped/002697.jpg	TRỨNG CÚT SỐT ME/ CHIÊN MẮM
+cropped/002698.jpg	12K/ CÂY
+cropped/002699.jpg	30K
+cropped/002700.jpg	30K
+cropped/002701.jpg	39K
+cropped/002702.jpg	50K
+cropped/002703.jpg	49K
+cropped/002704.jpg	49K
+cropped/002705.jpg	25K/ CÁNH
+cropped/002706.jpg	49K
+cropped/002707.jpg	49K
+cropped/002708.jpg	49K
+cropped/002709.jpg	49K
+cropped/002710.jpg	69K
+cropped/002711.jpg	59K
+cropped/002712.jpg	69K
+cropped/002713.jpg	59K
+cropped/002714.jpg	59K
+cropped/002715.jpg	59K
+cropped/002716.jpg	60K
+cropped/002717.jpg	65K
+cropped/002718.jpg	65K
+cropped/002719.jpg	79K
+cropped/002720.jpg	79K
+cropped/002721.jpg	29K
+cropped/002722.jpg	CÁC MÓN HẤP
+cropped/002723.jpg	CHÂN GÀ HẤP HÀNH
+cropped/002724.jpg	BẠCH TUỘC HẤP GỪNG
+cropped/002725.jpg	MỰC CƠM HẤP GỪNG
+cropped/002726.jpg	49K
+cropped/002727.jpg	79K
+cropped/002728.jpg	79K
+cropped/002729.jpg	CÁC MÓN GỎI
+cropped/002730.jpg	SALAD TRỘN DẦU GIẤM
+cropped/002731.jpg	TAI HEO TRỘN
+cropped/002732.jpg	HẢI SẢN TRỘN
+cropped/002733.jpg	GỎI TRÉ (ĐẶC SẢN BÌNH ĐỊNH)
+cropped/002734.jpg	GỎI NEM (ĐẶC SẢN BÌNH ĐỊNH)
+cropped/002735.jpg	GỎI BÒ TÁI CHANH
+cropped/002736.jpg	GỎI DA CÁ
+cropped/002737.jpg	GỎI ỐC
+cropped/002738.jpg	GỎI SỨA
+cropped/002739.jpg	TÔM SỐT THÁI
+cropped/002740.jpg	BẠCH TUỘC SỐT THÁI
+cropped/002741.jpg	39K
+cropped/002742.jpg	59K
+cropped/002743.jpg	59K
+cropped/002744.jpg	59K
+cropped/002745.jpg	59K
+cropped/002746.jpg	59K
+cropped/002747.jpg	59K
+cropped/002748.jpg	59K
+cropped/002749.jpg	59K
+cropped/002750.jpg	59K
+cropped/002751.jpg	85K
+cropped/002752.jpg	Chúc quý khách ngon miệng!
